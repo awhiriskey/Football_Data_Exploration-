@@ -1,0 +1,765 @@
+Match_Date,Awayteam,Awayteam_score,Country,Hometeam,Hometeam_score,League,Match_Date,Time,year,month,day,result,away,draw,home,Total_goals
+2015-08-02,St. Johnstone,3,Scotland,Hearts,4,Premiership,2015-08-02,11:30:00,2015,8,6,home,0,0,1,7
+2015-08-02,Aberdeen,1,Scotland,Dundee United,0,Premiership,2015-08-02,14:30:00,2015,8,6,away,1,0,0,1
+2015-08-07,Nottingham Forest,0,England,Brighton &amp; Hove Albion,1,Championship,2015-08-07,18:45:00,2015,8,4,home,0,0,1,1
+2015-08-08,Queens Park Rangers,0,England,Charlton Athletic,2,Championship,2015-08-08,14:00:00,2015,8,5,home,0,0,1,2
+2015-08-08,Inverness CT,1,Scotland,St. Johnstone,1,Premiership,2015-08-08,14:00:00,2015,8,5,draw,0,1,0,2
+2015-08-08,Hamilton Academical,0,Scotland,Ross County,2,Premiership,2015-08-08,14:00:00,2015,8,5,home,0,0,1,2
+2015-08-08,Dundee United,2,Scotland,Motherwell,0,Premiership,2015-08-08,14:00:00,2015,8,5,away,1,0,0,2
+2015-08-08,Hearts,2,Scotland,Dundee,1,Premiership,2015-08-08,14:00:00,2015,8,5,away,1,0,0,3
+2015-08-08,Fulham,1,England,Cardiff City,1,Championship,2015-08-08,11:00:00,2015,8,5,draw,0,1,0,2
+2015-08-08,Burnley,1,England,Leeds United,1,Championship,2015-08-08,11:30:00,2015,8,5,draw,0,1,0,2
+2015-08-08,Reading,1,England,Birmingham City,2,Championship,2015-08-08,14:00:00,2015,8,5,home,0,0,1,3
+2015-08-08,Derby County,0,England,Bolton Wanderers,0,Championship,2015-08-08,14:00:00,2015,8,5,draw,0,1,0,0
+2015-08-08,Ipswich Town,2,England,Brentford,2,Championship,2015-08-08,14:00:00,2015,8,5,draw,0,1,0,4
+2015-08-08,Huddersfield Town,0,England,Hull City,2,Championship,2015-08-08,14:00:00,2015,8,5,home,0,0,1,2
+2015-08-08,Milton Keynes Dons,4,England,Rotherham United,1,Championship,2015-08-08,14:00:00,2015,8,5,away,1,0,0,5
+2015-08-08,Bristol City,0,England,Sheffield Wednesday,2,Championship,2015-08-08,14:00:00,2015,8,5,home,0,0,1,2
+2015-08-08,Wolverhampton Wanderers,2,England,Blackburn Rovers,1,Championship,2015-08-08,14:00:00,2015,8,5,away,1,0,0,3
+2015-08-09,Middlesbrough,0,England,Preston North End,0,Championship,2015-08-09,11:00:00,2015,8,6,draw,0,1,0,0
+2015-08-09,Celtic,2,Scotland,Partick Thistle,0,Premiership,2015-08-09,11:30:00,2015,8,6,away,1,0,0,2
+2015-08-09,Kilmarnock,0,Scotland,Aberdeen,2,Premiership,2015-08-09,14:00:00,2015,8,6,home,0,0,1,2
+2015-08-11,Dundee,2,Scotland,Dundee United,2,Premiership,2015-08-11,18:45:00,2015,8,1,draw,0,1,0,4
+2015-08-11,Ross County,1,Scotland,St. Johnstone,1,Premiership,2015-08-11,18:45:00,2015,8,1,draw,0,1,0,2
+2015-08-12,Motherwell,0,Scotland,Hearts,2,Premiership,2015-08-12,18:45:00,2015,8,2,home,0,0,1,2
+2015-08-12,Partick Thistle,0,Scotland,Inverness CT,0,Premiership,2015-08-12,18:45:00,2015,8,2,draw,0,1,0,0
+2015-08-12,Celtic,2,Scotland,Kilmarnock,2,Premiership,2015-08-12,18:45:00,2015,8,2,draw,0,1,0,4
+2015-08-15,Charlton Athletic,1,England,Derby County,1,Championship,2015-08-15,14:00:00,2015,8,5,draw,0,1,0,2
+2015-08-15,Brentford,4,England,Bristol City,2,Championship,2015-08-15,14:00:00,2015,8,5,away,1,0,0,6
+2015-08-15,Birmingham City,2,England,Burnley,2,Championship,2015-08-15,11:30:00,2015,8,5,draw,0,1,0,4
+2015-08-15,Hearts,2,Scotland,Ross County,1,Premiership,2015-08-15,14:00:00,2015,8,5,away,1,0,0,3
+2015-08-15,Kilmarnock,2,Scotland,Partick Thistle,2,Premiership,2015-08-15,14:00:00,2015,8,5,draw,0,1,0,4
+2015-08-15,Dundee United,0,Scotland,Hamilton Academical,4,Premiership,2015-08-15,14:00:00,2015,8,5,home,0,0,1,4
+2015-08-15,St. Johnstone,1,Scotland,Dundee,2,Premiership,2015-08-15,14:00:00,2015,8,5,home,0,0,1,3
+2015-08-15,Inverness CT,2,Scotland,Celtic,4,Premiership,2015-08-15,14:00:00,2015,8,5,home,0,0,1,6
+2015-08-15,Brighton &amp; Hove Albion,2,England,Fulham,1,Championship,2015-08-15,14:00:00,2015,8,5,away,1,0,0,3
+2015-08-15,Aberdeen,2,Scotland,Motherwell,1,Premiership,2015-08-15,14:00:00,2015,8,5,away,1,0,0,3
+2015-08-15,Blackburn Rovers,1,England,Huddersfield Town,1,Championship,2015-08-15,14:00:00,2015,8,5,draw,0,1,0,2
+2015-08-15,Cardiff City,2,England,Queens Park Rangers,2,Championship,2015-08-15,16:15:00,2015,8,5,draw,0,1,0,4
+2015-08-15,Bolton Wanderers,0,England,Middlesbrough,3,Championship,2015-08-15,14:00:00,2015,8,5,home,0,0,1,3
+2015-08-15,Preston North End,1,England,Milton Keynes Dons,0,Championship,2015-08-15,14:00:00,2015,8,5,away,1,0,0,1
+2015-08-15,Rotherham United,1,England,Nottingham Forest,2,Championship,2015-08-15,14:00:00,2015,8,5,home,0,0,1,3
+2015-08-15,Sheffield Wednesday,1,England,Ipswich Town,2,Championship,2015-08-15,14:00:00,2015,8,5,home,0,0,1,3
+2015-08-16,Hull City,1,England,Wolverhampton Wanderers,1,Championship,2015-08-16,11:00:00,2015,8,6,draw,0,1,0,2
+2015-08-16,Leeds United,0,England,Reading,0,Championship,2015-08-16,14:00:00,2015,8,6,draw,0,1,0,0
+2015-08-18,Bolton Wanderers,0,England,Milton Keynes Dons,1,Championship,2015-08-18,18:45:00,2015,8,1,home,0,0,1,1
+2015-08-18,Charlton Athletic,0,England,Nottingham Forest,0,Championship,2015-08-18,18:45:00,2015,8,1,draw,0,1,0,0
+2015-08-18,Preston North End,0,England,Rotherham United,0,Championship,2015-08-18,18:45:00,2015,8,1,draw,0,1,0,0
+2015-08-18,Middlesbrough,1,England,Derby County,1,Championship,2015-08-18,18:45:00,2015,8,1,draw,0,1,0,2
+2015-08-18,Cardiff City,1,England,Blackburn Rovers,1,Championship,2015-08-18,18:45:00,2015,8,1,draw,0,1,0,2
+2015-08-18,Brighton &amp; Hove Albion,1,England,Huddersfield Town,1,Championship,2015-08-18,18:45:00,2015,8,1,draw,0,1,0,2
+2015-08-18,Burnley,0,England,Ipswich Town,2,Championship,2015-08-18,18:45:00,2015,8,1,home,0,0,1,2
+2015-08-19,Leeds United,2,England,Bristol City,2,Championship,2015-08-19,18:45:00,2015,8,2,draw,0,1,0,4
+2015-08-19,Queens Park Rangers,3,England,Wolverhampton Wanderers,2,Championship,2015-08-19,18:45:00,2015,8,2,away,1,0,0,5
+2015-08-19,Reading,1,England,Sheffield Wednesday,1,Championship,2015-08-19,18:45:00,2015,8,2,draw,0,1,0,2
+2015-08-19,Fulham,1,England,Hull City,2,Championship,2015-08-19,18:45:00,2015,8,2,home,0,0,1,3
+2015-08-21,Derby County,1,England,Birmingham City,1,Championship,2015-08-21,18:45:00,2015,8,4,draw,0,1,0,2
+2015-08-22,Celtic,3,Scotland,Dundee United,1,Premiership,2015-08-22,11:00:00,2015,8,5,away,1,0,0,4
+2015-08-22,Dundee,0,Scotland,Aberdeen,2,Premiership,2015-08-22,14:00:00,2015,8,5,home,0,0,1,2
+2015-08-22,Ross County,4,Scotland,Kilmarnock,0,Premiership,2015-08-22,14:00:00,2015,8,5,away,1,0,0,4
+2015-08-22,Motherwell,1,Scotland,St. Johnstone,2,Premiership,2015-08-22,14:00:00,2015,8,5,home,0,0,1,3
+2015-08-22,Wolverhampton Wanderers,0,England,Cardiff City,2,Championship,2015-08-22,16:15:00,2015,8,5,home,0,0,1,2
+2015-08-22,Bristol City,1,England,Middlesbrough,0,Championship,2015-08-22,14:00:00,2015,8,5,away,1,0,0,1
+2015-08-22,Ipswich Town,2,England,Preston North End,1,Championship,2015-08-22,14:00:00,2015,8,5,away,1,0,0,3
+2015-08-22,Sheffield Wednesday,1,England,Leeds United,1,Championship,2015-08-22,11:30:00,2015,8,5,draw,0,1,0,2
+2015-08-22,Nottingham Forest,1,England,Bolton Wanderers,1,Championship,2015-08-22,14:00:00,2015,8,5,draw,0,1,0,2
+2015-08-22,Blackburn Rovers,0,England,Brighton &amp; Hove Albion,1,Championship,2015-08-22,14:00:00,2015,8,5,home,0,0,1,1
+2015-08-22,Brentford,0,England,Burnley,1,Championship,2015-08-22,14:00:00,2015,8,5,home,0,0,1,1
+2015-08-22,Hull City,1,England,Charlton Athletic,2,Championship,2015-08-22,14:00:00,2015,8,5,home,0,0,1,3
+2015-08-22,Huddersfield Town,1,England,Fulham,1,Championship,2015-08-22,14:00:00,2015,8,5,draw,0,1,0,2
+2015-08-22,Partick Thistle,0,Scotland,Hearts,3,Premiership,2015-08-22,14:00:00,2015,8,5,home,0,0,1,3
+2015-08-22,Milton Keynes Dons,0,England,Reading,0,Championship,2015-08-22,14:00:00,2015,8,5,draw,0,1,0,0
+2015-08-22,Hamilton Academical,2,Scotland,Inverness CT,0,Premiership,2015-08-22,14:00:00,2015,8,5,away,1,0,0,2
+2015-08-22,Rotherham United,2,England,Queens Park Rangers,4,Championship,2015-08-22,14:00:00,2015,8,5,home,0,0,1,6
+2015-08-28,Bolton Wanderers,0,England,Blackburn Rovers,0,Championship,2015-08-28,18:45:00,2015,8,4,draw,0,1,0,0
+2015-08-29,St. Johnstone,1,Scotland,Celtic,3,Premiership,2015-08-29,14:00:00,2015,8,5,home,0,0,1,4
+2015-08-29,Inverness CT,1,Scotland,Dundee,1,Premiership,2015-08-29,14:00:00,2015,8,5,draw,0,1,0,2
+2015-08-29,Leeds United,2,England,Derby County,1,Championship,2015-08-29,11:05:00,2015,8,5,away,1,0,0,3
+2015-08-29,Middlesbrough,3,England,Sheffield Wednesday,1,Championship,2015-08-29,14:00:00,2015,8,5,away,1,0,0,4
+2015-08-29,Cardiff City,2,England,Nottingham Forest,1,Championship,2015-08-29,14:00:00,2015,8,5,away,1,0,0,3
+2015-08-29,Birmingham City,2,England,Milton Keynes Dons,0,Championship,2015-08-29,14:00:00,2015,8,5,away,1,0,0,2
+2015-08-29,Brighton &amp; Hove Albion,3,England,Ipswich Town,2,Championship,2015-08-29,14:00:00,2015,8,5,away,1,0,0,5
+2015-08-29,Preston North End,0,England,Hull City,2,Championship,2015-08-29,14:00:00,2015,8,5,home,0,0,1,2
+2015-08-29,Queens Park Rangers,1,England,Huddersfield Town,0,Championship,2015-08-29,14:00:00,2015,8,5,away,1,0,0,1
+2015-08-29,Burnley,2,England,Bristol City,1,Championship,2015-08-29,14:00:00,2015,8,5,away,1,0,0,3
+2015-08-29,Reading,3,England,Brentford,1,Championship,2015-08-29,14:00:00,2015,8,5,away,1,0,0,4
+2015-08-29,Hearts,2,Scotland,Hamilton Academical,3,Premiership,2015-08-29,14:00:00,2015,8,5,home,0,0,1,5
+2015-08-29,Charlton Athletic,1,England,Wolverhampton Wanderers,2,Championship,2015-08-29,14:00:00,2015,8,5,home,0,0,1,3
+2015-08-29,Kilmarnock,0,Scotland,Motherwell,1,Premiership,2015-08-29,14:00:00,2015,8,5,home,0,0,1,1
+2015-08-29,Fulham,3,England,Rotherham United,1,Championship,2015-08-29,14:00:00,2015,8,5,away,1,0,0,4
+2015-08-29,Dundee United,1,Scotland,Ross County,2,Premiership,2015-08-29,14:00:00,2015,8,5,home,0,0,1,3
+2015-08-29,Aberdeen,2,Scotland,Partick Thistle,0,Premiership,2015-08-29,14:00:00,2015,8,5,away,1,0,0,2
+2015-09-11,Ipswich Town,1,England,Reading,5,Championship,2015-09-11,19:00:00,2015,9,4,home,0,0,1,6
+2015-09-11,Hearts,0,Scotland,Inverness CT,2,Premiership,2015-09-11,18:45:00,2015,9,4,home,0,0,1,2
+2015-09-12,Celtic,1,Scotland,Aberdeen,2,Premiership,2015-09-12,11:30:00,2015,9,5,home,0,0,1,3
+2015-09-12,Brentford,1,England,Leeds United,1,Championship,2015-09-12,14:00:00,2015,9,5,draw,0,1,0,2
+2015-09-12,Rotherham United,1,England,Charlton Athletic,1,Championship,2015-09-12,14:00:00,2015,9,5,draw,0,1,0,2
+2015-09-12,Huddersfield Town,0,England,Cardiff City,2,Championship,2015-09-12,14:00:00,2015,9,5,home,0,0,1,2
+2015-09-12,Sheffield Wednesday,1,England,Burnley,3,Championship,2015-09-12,14:00:00,2015,9,5,home,0,0,1,4
+2015-09-12,Hull City,0,England,Brighton &amp; Hove Albion,1,Championship,2015-09-12,14:00:00,2015,9,5,home,0,0,1,1
+2015-09-12,Wolverhampton Wanderers,1,England,Bolton Wanderers,2,Championship,2015-09-12,14:00:00,2015,9,5,home,0,0,1,3
+2015-09-12,Derby County,2,England,Preston North End,1,Championship,2015-09-12,14:00:00,2015,9,5,away,1,0,0,3
+2015-09-12,Nottingham Forest,2,England,Queens Park Rangers,1,Championship,2015-09-12,11:30:00,2015,9,5,away,1,0,0,3
+2015-09-12,Hamilton Academical,1,Scotland,St. Johnstone,4,Premiership,2015-09-12,14:00:00,2015,9,5,home,0,0,1,5
+2015-09-12,Dundee,1,Scotland,Partick Thistle,0,Premiership,2015-09-12,14:00:00,2015,9,5,away,1,0,0,1
+2015-09-12,Ross County,1,Scotland,Motherwell,1,Premiership,2015-09-12,14:00:00,2015,9,5,draw,0,1,0,2
+2015-09-12,Kilmarnock,2,Scotland,Dundee United,1,Premiership,2015-09-12,14:00:00,2015,9,5,away,1,0,0,3
+2015-09-12,Bristol City,2,England,Birmingham City,4,Championship,2015-09-12,14:00:00,2015,9,5,home,0,0,1,6
+2015-09-12,Milton Keynes Dons,0,England,Middlesbrough,2,Championship,2015-09-12,14:00:00,2015,9,5,home,0,0,1,2
+2015-09-13,Blackburn Rovers,1,England,Fulham,2,Championship,2015-09-13,11:00:00,2015,9,6,home,0,0,1,3
+2015-09-15,Huddersfield Town,2,England,Charlton Athletic,1,Championship,2015-09-15,18:45:00,2015,9,1,away,1,0,0,3
+2015-09-15,Rotherham United,1,England,Brighton &amp; Hove Albion,2,Championship,2015-09-15,18:45:00,2015,9,1,home,0,0,1,3
+2015-09-15,Milton Keynes Dons,1,England,Burnley,2,Championship,2015-09-15,18:45:00,2015,9,1,home,0,0,1,3
+2015-09-15,Ipswich Town,1,England,Leeds United,0,Championship,2015-09-15,18:45:00,2015,9,1,away,1,0,0,1
+2015-09-15,Brentford,1,England,Middlesbrough,3,Championship,2015-09-15,18:45:00,2015,9,1,home,0,0,1,4
+2015-09-15,Bristol City,1,England,Preston North End,1,Championship,2015-09-15,18:45:00,2015,9,1,draw,0,1,0,2
+2015-09-15,Derby County,1,England,Reading,0,Championship,2015-09-15,19:00:00,2015,9,1,away,1,0,0,1
+2015-09-15,Nottingham Forest,1,England,Birmingham City,0,Championship,2015-09-15,18:45:00,2015,9,1,away,1,0,0,1
+2015-09-15,Sheffield Wednesday,0,England,Bolton Wanderers,0,Championship,2015-09-15,19:00:00,2015,9,1,draw,0,1,0,0
+2015-09-15,Hull City,2,England,Cardiff City,0,Championship,2015-09-15,18:45:00,2015,9,1,away,1,0,0,2
+2015-09-15,Hamilton Academical,0,Scotland,Aberdeen,1,Premiership,2015-09-15,18:45:00,2015,9,1,home,0,0,1,1
+2015-09-16,Blackburn Rovers,2,England,Queens Park Rangers,2,Championship,2015-09-16,18:45:00,2015,9,2,draw,0,1,0,4
+2015-09-18,Birmingham City,1,England,Ipswich Town,1,Championship,2015-09-18,18:45:00,2015,9,4,draw,0,1,0,2
+2015-09-19,Charlton Athletic,0,England,Blackburn Rovers,3,Championship,2015-09-19,14:00:00,2015,9,5,home,0,0,1,3
+2015-09-19,Preston North End,1,England,Brentford,2,Championship,2015-09-19,14:00:00,2015,9,5,home,0,0,1,3
+2015-09-19,Reading,2,England,Bristol City,0,Championship,2015-09-19,14:00:00,2015,9,5,away,1,0,0,2
+2015-09-19,Bolton Wanderers,1,England,Huddersfield Town,4,Championship,2015-09-19,14:00:00,2015,9,5,home,0,0,1,5
+2015-09-19,Queens Park Rangers,1,England,Hull City,1,Championship,2015-09-19,14:00:00,2015,9,5,draw,0,1,0,2
+2015-09-19,Leeds United,2,England,Milton Keynes Dons,1,Championship,2015-09-19,14:00:00,2015,9,5,away,1,0,0,3
+2015-09-19,Cardiff City,1,England,Rotherham United,2,Championship,2015-09-19,14:00:00,2015,9,5,home,0,0,1,3
+2015-09-19,Fulham,2,England,Sheffield Wednesday,3,Championship,2015-09-19,14:00:00,2015,9,5,home,0,0,1,5
+2015-09-19,Brighton &amp; Hove Albion,0,England,Wolverhampton Wanderers,0,Championship,2015-09-19,14:00:00,2015,9,5,draw,0,1,0,0
+2015-09-19,Middlesbrough,2,England,Nottingham Forest,1,Championship,2015-09-19,11:30:00,2015,9,5,away,1,0,0,3
+2015-09-19,Inverness CT,1,Scotland,Dundee United,1,Premiership,2015-09-19,14:00:00,2015,9,5,draw,0,1,0,2
+2015-09-19,Motherwell,0,Scotland,Hamilton Academical,1,Premiership,2015-09-19,14:00:00,2015,9,5,home,0,0,1,1
+2015-09-19,St. Johnstone,1,Scotland,Kilmarnock,2,Premiership,2015-09-19,14:00:00,2015,9,5,home,0,0,1,3
+2015-09-19,Partick Thistle,0,Scotland,Ross County,1,Premiership,2015-09-19,14:00:00,2015,9,5,home,0,0,1,1
+2015-09-20,Aberdeen,3,Scotland,Hearts,1,Premiership,2015-09-20,13:15:00,2015,9,6,away,1,0,0,4
+2015-09-20,Dundee,0,Scotland,Celtic,6,Premiership,2015-09-20,14:00:00,2015,9,6,home,0,0,1,6
+2015-09-21,Burnley,0,England,Derby County,0,Championship,2015-09-21,18:45:00,2015,9,0,draw,0,1,0,0
+2015-09-24,Nottingham Forest,1,England,Huddersfield Town,1,Championship,2015-09-24,18:45:00,2015,9,3,draw,0,1,0,2
+2015-09-25,Queens Park Rangers,0,England,Fulham,4,Championship,2015-09-25,18:45:00,2015,9,4,home,0,0,1,4
+2015-09-26,Bristol City,2,England,Ipswich Town,2,Championship,2015-09-26,14:00:00,2015,9,5,draw,0,1,0,4
+2015-09-26,Hamilton Academical,2,Scotland,Kilmarnock,1,Premiership,2015-09-26,14:00:00,2015,9,5,away,1,0,0,3
+2015-09-26,Aberdeen,1,Scotland,Inverness CT,2,Premiership,2015-09-26,14:00:00,2015,9,5,home,0,0,1,3
+2015-09-26,Ross County,3,Scotland,Dundee,3,Premiership,2015-09-26,14:00:00,2015,9,5,draw,0,1,0,6
+2015-09-26,Hearts,0,Scotland,Celtic,0,Premiership,2015-09-26,14:00:00,2015,9,5,draw,0,1,0,0
+2015-09-26,Wolverhampton Wanderers,1,England,Preston North End,1,Championship,2015-09-26,14:00:00,2015,9,5,draw,0,1,0,2
+2015-09-26,Dundee United,1,Scotland,St. Johnstone,2,Premiership,2015-09-26,14:00:00,2015,9,5,home,0,0,1,3
+2015-09-26,Blackburn Rovers,1,England,Hull City,1,Championship,2015-09-26,14:00:00,2015,9,5,draw,0,1,0,2
+2015-09-26,Charlton Athletic,1,England,Cardiff City,2,Championship,2015-09-26,14:00:00,2015,9,5,home,0,0,1,3
+2015-09-26,Reading,2,England,Burnley,1,Championship,2015-09-26,14:00:00,2015,9,5,away,1,0,0,3
+2015-09-26,Sheffield Wednesday,2,England,Brentford,1,Championship,2015-09-26,14:00:00,2015,9,5,away,1,0,0,3
+2015-09-26,Brighton &amp; Hove Albion,2,England,Bolton Wanderers,2,Championship,2015-09-26,14:00:00,2015,9,5,draw,0,1,0,4
+2015-09-26,Rotherham United,2,England,Birmingham City,0,Championship,2015-09-26,14:00:00,2015,9,5,away,1,0,0,2
+2015-09-26,Derby County,3,England,Milton Keynes Dons,1,Championship,2015-09-26,11:30:00,2015,9,5,away,1,0,0,4
+2015-09-26,Partick Thistle,1,Scotland,Motherwell,2,Premiership,2015-09-26,14:00:00,2015,9,5,home,0,0,1,3
+2015-09-27,Leeds United,0,England,Middlesbrough,3,Championship,2015-09-27,12:15:00,2015,9,6,home,0,0,1,3
+2015-09-29,Birmingham City,2,England,Brentford,0,Championship,2015-09-29,18:45:00,2015,9,1,away,1,0,0,2
+2015-09-29,Wolverhampton Wanderers,3,England,Fulham,0,Championship,2015-09-29,18:45:00,2015,9,1,away,1,0,0,3
+2015-10-02,Burnley,2,England,Rotherham United,1,Championship,2015-10-02,18:45:00,2015,10,4,away,1,0,0,3
+2015-10-03,Inverness CT,2,Scotland,Ross County,1,Premiership,2015-10-03,14:00:00,2015,10,5,away,1,0,0,3
+2015-10-03,Dundee United,0,Scotland,Partick Thistle,3,Premiership,2015-10-03,14:00:00,2015,10,5,home,0,0,1,3
+2015-10-03,Kilmarnock,1,Scotland,Hearts,1,Premiership,2015-10-03,14:00:00,2015,10,5,draw,0,1,0,2
+2015-10-03,Motherwell,1,Scotland,Dundee,2,Premiership,2015-10-03,14:00:00,2015,10,5,home,0,0,1,3
+2015-10-03,St. Johnstone,5,Scotland,Aberdeen,1,Premiership,2015-10-03,14:00:00,2015,10,5,away,1,0,0,6
+2015-10-03,Ipswich Town,0,England,Blackburn Rovers,2,Championship,2015-10-03,14:00:00,2015,10,5,home,0,0,1,2
+2015-10-03,Cardiff City,1,England,Brighton &amp; Hove Albion,1,Championship,2015-10-03,14:00:00,2015,10,5,draw,0,1,0,2
+2015-10-03,Milton Keynes Dons,1,England,Bristol City,1,Championship,2015-10-03,14:00:00,2015,10,5,draw,0,1,0,2
+2015-10-03,Brentford,0,England,Derby County,2,Championship,2015-10-03,14:00:00,2015,10,5,home,0,0,1,2
+2015-10-03,Birmingham City,2,England,Leeds United,0,Championship,2015-10-03,14:00:00,2015,10,5,away,1,0,0,2
+2015-10-03,Hull City,1,England,Nottingham Forest,0,Championship,2015-10-03,14:00:00,2015,10,5,away,1,0,0,1
+2015-10-03,Bolton Wanderers,3,England,Queens Park Rangers,4,Championship,2015-10-03,14:00:00,2015,10,5,home,0,0,1,7
+2015-10-03,Middlesbrough,0,England,Reading,2,Championship,2015-10-03,14:00:00,2015,10,5,home,0,0,1,2
+2015-10-03,Preston North End,1,England,Sheffield Wednesday,3,Championship,2015-10-03,14:00:00,2015,10,5,home,0,0,1,4
+2015-10-03,Huddersfield Town,0,England,Wolverhampton Wanderers,3,Championship,2015-10-03,11:30:00,2015,10,5,home,0,0,1,3
+2015-10-04,Celtic,2,Scotland,Hamilton Academical,1,Premiership,2015-10-04,11:30:00,2015,10,6,away,1,0,0,3
+2015-10-04,Fulham,2,England,Charlton Athletic,2,Championship,2015-10-04,11:00:00,2015,10,6,draw,0,1,0,4
+2015-10-16,Nottingham Forest,0,England,Bristol City,2,Championship,2015-10-16,18:45:00,2015,10,4,home,0,0,1,2
+2015-10-16,Aberdeen,0,Scotland,Ross County,2,Premiership,2015-10-16,18:45:00,2015,10,4,home,0,0,1,2
+2015-10-17,Brighton &amp; Hove Albion,2,England,Leeds United,1,Championship,2015-10-17,14:00:00,2015,10,5,away,1,0,0,3
+2015-10-17,Hull City,1,England,Sheffield Wednesday,1,Championship,2015-10-17,11:30:00,2015,10,5,draw,0,1,0,2
+2015-10-17,Queens Park Rangers,1,England,Birmingham City,2,Championship,2015-10-17,14:00:00,2015,10,5,home,0,0,1,3
+2015-10-17,Rotherham United,1,England,Brentford,2,Championship,2015-10-17,14:00:00,2015,10,5,home,0,0,1,3
+2015-10-17,Bolton Wanderers,0,England,Burnley,2,Championship,2015-10-17,14:00:00,2015,10,5,home,0,0,1,2
+2015-10-17,Huddersfield Town,0,England,Ipswich Town,0,Championship,2015-10-17,14:00:00,2015,10,5,draw,0,1,0,0
+2015-10-17,Fulham,0,England,Middlesbrough,0,Championship,2015-10-17,14:00:00,2015,10,5,draw,0,1,0,0
+2015-10-17,Blackburn Rovers,0,England,Milton Keynes Dons,3,Championship,2015-10-17,14:00:00,2015,10,5,home,0,0,1,3
+2015-10-17,Cardiff City,0,England,Preston North End,0,Championship,2015-10-17,14:00:00,2015,10,5,draw,0,1,0,0
+2015-10-17,Celtic,1,Scotland,Motherwell,0,Premiership,2015-10-17,11:00:00,2015,10,5,away,1,0,0,1
+2015-10-17,Inverness CT,0,Scotland,Kilmarnock,2,Premiership,2015-10-17,14:00:00,2015,10,5,home,0,0,1,2
+2015-10-17,Partick Thistle,2,Scotland,St. Johnstone,1,Premiership,2015-10-17,14:00:00,2015,10,5,away,1,0,0,3
+2015-10-17,Charlton Athletic,0,England,Reading,1,Championship,2015-10-17,14:00:00,2015,10,5,home,0,0,1,1
+2015-10-17,Dundee,1,Scotland,Hamilton Academical,1,Premiership,2015-10-17,14:00:00,2015,10,5,draw,0,1,0,2
+2015-10-18,Hearts,1,Scotland,Dundee United,0,Premiership,2015-10-18,11:15:00,2015,10,6,away,1,0,0,1
+2015-10-18,Wolverhampton Wanderers,2,England,Derby County,4,Championship,2015-10-18,12:15:00,2015,10,6,home,0,0,1,6
+2015-10-20,Ipswich Town,0,England,Hull City,3,Championship,2015-10-20,18:45:00,2015,10,1,home,0,0,1,3
+2015-10-20,Burnley,1,England,Nottingham Forest,1,Championship,2015-10-20,18:45:00,2015,10,1,draw,0,1,0,2
+2015-10-20,Birmingham City,1,England,Bolton Wanderers,0,Championship,2015-10-20,19:00:00,2015,10,1,away,1,0,0,1
+2015-10-20,Bristol City,1,England,Brighton &amp; Hove Albion,2,Championship,2015-10-20,18:45:00,2015,10,1,home,0,0,1,3
+2015-10-20,Middlesbrough,0,England,Cardiff City,1,Championship,2015-10-20,18:45:00,2015,10,1,home,0,0,1,1
+2015-10-20,Preston North End,3,England,Charlton Athletic,0,Championship,2015-10-20,18:45:00,2015,10,1,away,1,0,0,3
+2015-10-20,Reading,1,England,Rotherham United,1,Championship,2015-10-20,18:45:00,2015,10,1,draw,0,1,0,2
+2015-10-20,Milton Keynes Dons,0,England,Huddersfield Town,2,Championship,2015-10-20,18:45:00,2015,10,1,home,0,0,1,2
+2015-10-20,Sheffield Wednesday,0,England,Queens Park Rangers,0,Championship,2015-10-20,18:45:00,2015,10,1,draw,0,1,0,0
+2015-10-21,Brentford,2,England,Wolverhampton Wanderers,0,Championship,2015-10-21,18:45:00,2015,10,2,away,1,0,0,2
+2015-10-21,Leeds United,1,England,Fulham,1,Championship,2015-10-21,18:45:00,2015,10,2,draw,0,1,0,2
+2015-10-21,Derby County,0,England,Blackburn Rovers,0,Championship,2015-10-21,18:45:00,2015,10,2,draw,0,1,0,0
+2015-10-23,Sheffield Wednesday,2,England,Rotherham United,1,Championship,2015-10-23,18:45:00,2015,10,4,away,1,0,0,3
+2015-10-24,Kilmarnock,2,Scotland,Dundee,1,Premiership,2015-10-24,14:00:00,2015,10,5,away,1,0,0,3
+2015-10-24,Motherwell,1,Scotland,Aberdeen,1,Premiership,2015-10-24,14:00:00,2015,10,5,draw,0,1,0,2
+2015-10-24,Reading,2,England,Fulham,4,Championship,2015-10-24,12:30:00,2015,10,5,home,0,0,1,6
+2015-10-24,Milton Keynes Dons,0,England,Queens Park Rangers,3,Championship,2015-10-24,14:00:00,2015,10,5,home,0,0,1,3
+2015-10-24,Ross County,0,Scotland,Hearts,2,Premiership,2015-10-24,14:00:00,2015,10,5,home,0,0,1,2
+2015-10-24,St. Johnstone,1,Scotland,Inverness CT,0,Premiership,2015-10-24,14:00:00,2015,10,5,away,1,0,0,1
+2015-10-24,Hamilton Academical,1,Scotland,Partick Thistle,1,Premiership,2015-10-24,14:00:00,2015,10,5,draw,0,1,0,2
+2015-10-24,Burnley,1,England,Blackburn Rovers,0,Championship,2015-10-24,11:30:00,2015,10,5,away,1,0,0,1
+2015-10-24,Preston North End,0,England,Brighton &amp; Hove Albion,0,Championship,2015-10-24,14:00:00,2015,10,5,draw,0,1,0,0
+2015-10-24,Ipswich Town,1,England,Nottingham Forest,1,Championship,2015-10-24,14:00:00,2015,10,5,draw,0,1,0,2
+2015-10-24,Birmingham City,0,England,Hull City,2,Championship,2015-10-24,14:00:00,2015,10,5,home,0,0,1,2
+2015-10-24,Middlesbrough,3,England,Wolverhampton Wanderers,1,Championship,2015-10-24,14:00:00,2015,10,5,away,1,0,0,4
+2015-10-24,Derby County,2,England,Huddersfield Town,1,Championship,2015-10-24,14:00:00,2015,10,5,away,1,0,0,3
+2015-10-24,Brentford,3,England,Charlton Athletic,0,Championship,2015-10-24,14:00:00,2015,10,5,away,1,0,0,3
+2015-10-24,Leeds United,1,England,Bolton Wanderers,1,Championship,2015-10-24,14:00:00,2015,10,5,draw,0,1,0,2
+2015-10-25,Dundee United,0,Scotland,Celtic,5,Premiership,2015-10-25,14:00:00,2015,10,6,home,0,0,1,5
+2015-10-26,Bristol City,0,England,Cardiff City,0,Championship,2015-10-26,19:45:00,2015,10,0,draw,0,1,0,0
+2015-10-29,Blackburn Rovers,2,England,Leeds United,0,Championship,2015-10-29,19:45:00,2015,10,3,away,1,0,0,2
+2015-10-30,Queens Park Rangers,0,England,Brentford,1,Championship,2015-10-30,19:45:00,2015,10,4,home,0,0,1,1
+2015-10-31,Bolton Wanderers,0,England,Preston North End,0,Championship,2015-10-31,18:00:00,2015,10,5,draw,0,1,0,0
+2015-10-31,Aberdeen,1,Scotland,Celtic,3,Premiership,2015-10-31,12:30:00,2015,10,5,home,0,0,1,4
+2015-10-31,Ross County,0,Scotland,Dundee United,1,Premiership,2015-10-31,15:00:00,2015,10,5,home,0,0,1,1
+2015-10-31,St. Johnstone,4,Scotland,Hamilton Academical,2,Premiership,2015-10-31,15:00:00,2015,10,5,away,1,0,0,6
+2015-10-31,Dundee,1,Scotland,Inverness CT,1,Premiership,2015-10-31,15:00:00,2015,10,5,draw,0,1,0,2
+2015-10-31,Motherwell,1,Scotland,Kilmarnock,0,Premiership,2015-10-31,15:00:00,2015,10,5,away,1,0,0,1
+2015-10-31,Hearts,4,Scotland,Partick Thistle,0,Premiership,2015-10-31,15:00:00,2015,10,5,away,1,0,0,4
+2015-10-31,Wolverhampton Wanderers,2,England,Birmingham City,0,Championship,2015-10-31,12:30:00,2015,10,5,away,1,0,0,2
+2015-10-31,Fulham,4,England,Bristol City,1,Championship,2015-10-31,15:00:00,2015,10,5,away,1,0,0,5
+2015-10-31,Huddersfield Town,1,England,Burnley,2,Championship,2015-10-31,15:00:00,2015,10,5,home,0,0,1,3
+2015-10-31,Rotherham United,0,England,Derby County,3,Championship,2015-10-31,15:00:00,2015,10,5,home,0,0,1,3
+2015-10-31,Cardiff City,0,England,Ipswich Town,0,Championship,2015-10-31,15:00:00,2015,10,5,draw,0,1,0,0
+2015-10-31,Charlton Athletic,0,England,Middlesbrough,3,Championship,2015-10-31,15:00:00,2015,10,5,home,0,0,1,3
+2015-10-31,Brighton &amp; Hove Albion,1,England,Reading,1,Championship,2015-10-31,15:00:00,2015,10,5,draw,0,1,0,2
+2015-10-31,Nottingham Forest,0,England,Sheffield Wednesday,1,Championship,2015-10-31,15:00:00,2015,10,5,home,0,0,1,1
+2015-10-31,Hull City,2,England,Milton Keynes Dons,0,Championship,2015-10-31,15:00:00,2015,10,5,away,1,0,0,2
+2015-11-03,Bolton Wanderers,0,England,Ipswich Town,2,Championship,2015-11-03,19:45:00,2015,11,1,home,0,0,1,2
+2015-11-03,Huddersfield Town,2,England,Reading,2,Championship,2015-11-03,20:00:00,2015,11,1,draw,0,1,0,4
+2015-11-03,Brighton &amp; Hove Albion,0,England,Sheffield Wednesday,0,Championship,2015-11-03,19:45:00,2015,11,1,draw,0,1,0,0
+2015-11-03,Nottingham Forest,0,England,Preston North End,1,Championship,2015-11-03,19:45:00,2015,11,1,home,0,0,1,1
+2015-11-03,Charlton Athletic,0,England,Milton Keynes Dons,1,Championship,2015-11-03,19:45:00,2015,11,1,home,0,0,1,1
+2015-11-03,Rotherham United,0,England,Middlesbrough,1,Championship,2015-11-03,19:45:00,2015,11,1,home,0,0,1,1
+2015-11-03,Cardiff City,0,England,Leeds United,1,Championship,2015-11-03,19:45:00,2015,11,1,home,0,0,1,1
+2015-11-03,Queens Park Rangers,0,England,Derby County,1,Championship,2015-11-03,19:45:00,2015,11,1,home,0,0,1,1
+2015-11-03,Fulham,1,England,Burnley,3,Championship,2015-11-03,19:45:00,2015,11,1,home,0,0,1,4
+2015-11-03,Wolverhampton Wanderers,0,England,Bristol City,1,Championship,2015-11-03,19:45:00,2015,11,1,home,0,0,1,1
+2015-11-03,Hull City,2,England,Brentford,0,Championship,2015-11-03,19:45:00,2015,11,1,away,1,0,0,2
+2015-11-03,Blackburn Rovers,0,England,Birmingham City,0,Championship,2015-11-03,19:45:00,2015,11,1,draw,0,1,0,0
+2015-11-06,Derby County,0,England,Nottingham Forest,1,Championship,2015-11-06,19:30:00,2015,11,4,home,0,0,1,1
+2015-11-07,Milton Keynes Dons,1,England,Brighton &amp; Hove Albion,2,Championship,2015-11-07,15:00:00,2015,11,5,home,0,0,1,3
+2015-11-07,Reading,0,England,Cardiff City,2,Championship,2015-11-07,15:00:00,2015,11,5,home,0,0,1,2
+2015-11-07,Sheffield Wednesday,1,England,Charlton Athletic,3,Championship,2015-11-07,15:00:00,2015,11,5,home,0,0,1,4
+2015-11-07,Birmingham City,5,England,Fulham,2,Championship,2015-11-07,15:00:00,2015,11,5,away,1,0,0,7
+2015-11-07,Middlesbrough,0,England,Hull City,3,Championship,2015-11-07,15:00:00,2015,11,5,home,0,0,1,3
+2015-11-07,Preston North End,0,England,Queens Park Rangers,0,Championship,2015-11-07,15:00:00,2015,11,5,draw,0,1,0,0
+2015-11-07,Brentford,1,England,Blackburn Rovers,1,Championship,2015-11-07,15:00:00,2015,11,5,draw,0,1,0,2
+2015-11-07,Ipswich Town,5,England,Rotherham United,2,Championship,2015-11-07,15:00:00,2015,11,5,away,1,0,0,7
+2015-11-07,Dundee United,0,Scotland,Aberdeen,2,Premiership,2015-11-07,15:00:00,2015,11,5,home,0,0,1,2
+2015-11-07,Partick Thistle,1,Scotland,Dundee,1,Premiership,2015-11-07,15:00:00,2015,11,5,draw,0,1,0,2
+2015-11-07,Hamilton Academical,0,Scotland,Hearts,2,Premiership,2015-11-07,15:00:00,2015,11,5,home,0,0,1,2
+2015-11-07,Inverness CT,3,Scotland,Motherwell,1,Premiership,2015-11-07,15:00:00,2015,11,5,away,1,0,0,4
+2015-11-07,Kilmarnock,1,Scotland,St. Johnstone,2,Premiership,2015-11-07,15:00:00,2015,11,5,home,0,0,1,3
+2015-11-07,Leeds United,3,England,Huddersfield Town,0,Championship,2015-11-07,12:30:00,2015,11,5,away,1,0,0,3
+2015-11-07,Burnley,0,England,Wolverhampton Wanderers,0,Championship,2015-11-07,15:00:00,2015,11,5,draw,0,1,0,0
+2015-11-07,Bristol City,0,England,Bolton Wanderers,0,Championship,2015-11-07,15:00:00,2015,11,5,draw,0,1,0,0
+2015-11-08,Celtic,4,Scotland,Ross County,1,Premiership,2015-11-08,15:30:00,2015,11,6,away,1,0,0,5
+2015-11-20,Queens Park Rangers,0,England,Middlesbrough,1,Championship,2015-11-20,19:45:00,2015,11,4,home,0,0,1,1
+2015-11-21,Huddersfield Town,1,England,Sheffield Wednesday,3,Championship,2015-11-21,15:00:00,2015,11,5,home,0,0,1,4
+2015-11-21,Bolton Wanderers,1,England,Reading,2,Championship,2015-11-21,15:00:00,2015,11,5,home,0,0,1,3
+2015-11-21,Blackburn Rovers,2,England,Preston North End,1,Championship,2015-11-21,15:00:00,2015,11,5,away,1,0,0,3
+2015-11-21,Fulham,1,England,Milton Keynes Dons,1,Championship,2015-11-21,15:00:00,2015,11,5,draw,0,1,0,2
+2015-11-21,Wolverhampton Wanderers,2,England,Ipswich Town,2,Championship,2015-11-21,15:00:00,2015,11,5,draw,0,1,0,4
+2015-11-21,Cardiff City,0,England,Derby County,2,Championship,2015-11-21,15:00:00,2015,11,5,home,0,0,1,2
+2015-11-21,Nottingham Forest,1,England,Brentford,2,Championship,2015-11-21,15:00:00,2015,11,5,home,0,0,1,3
+2015-11-21,Charlton Athletic,1,England,Birmingham City,0,Championship,2015-11-21,15:00:00,2015,11,5,away,1,0,0,1
+2015-11-21,Hull City,1,England,Bristol City,1,Championship,2015-11-21,12:30:00,2015,11,5,draw,0,1,0,2
+2015-11-21,Motherwell,0,Scotland,Ross County,3,Premiership,2015-11-21,15:00:00,2015,11,5,home,0,0,1,3
+2015-11-21,Rotherham United,1,England,Leeds United,0,Championship,2015-11-21,15:00:00,2015,11,5,away,1,0,0,1
+2015-11-21,Dundee,1,Scotland,Hearts,1,Premiership,2015-11-21,15:00:00,2015,11,5,draw,0,1,0,2
+2015-11-21,Inverness CT,1,Scotland,Partick Thistle,2,Premiership,2015-11-21,15:00:00,2015,11,5,home,0,0,1,3
+2015-11-21,Kilmarnock,0,Scotland,Celtic,0,Premiership,2015-11-21,15:00:00,2015,11,5,draw,0,1,0,0
+2015-11-21,St. Johnstone,2,Scotland,Dundee United,1,Premiership,2015-11-21,15:00:00,2015,11,5,away,1,0,0,3
+2015-11-22,Brighton &amp; Hove Albion,1,England,Burnley,1,Championship,2015-11-22,13:15:00,2015,11,6,draw,0,1,0,2
+2015-11-22,Aberdeen,1,Scotland,Hamilton Academical,1,Premiership,2015-11-22,12:30:00,2015,11,6,draw,0,1,0,2
+2015-11-27,Dundee,1,Scotland,St. Johnstone,1,Premiership,2015-11-27,19:45:00,2015,11,4,draw,0,1,0,2
+2015-11-27,Derby County,2,England,Hull City,0,Championship,2015-11-27,19:45:00,2015,11,4,away,1,0,0,2
+2015-11-28,Ipswich Town,3,England,Charlton Athletic,0,Championship,2015-11-28,12:30:00,2015,11,5,away,1,0,0,3
+2015-11-28,Preston North End,1,England,Fulham,1,Championship,2015-11-28,15:00:00,2015,11,5,draw,0,1,0,2
+2015-11-28,Burnley,2,England,Cardiff City,2,Championship,2015-11-28,15:00:00,2015,11,5,draw,0,1,0,4
+2015-11-28,Middlesbrough,2,England,Huddersfield Town,0,Championship,2015-11-28,15:00:00,2015,11,5,away,1,0,0,2
+2015-11-28,Leeds United,0,England,Queens Park Rangers,1,Championship,2015-11-28,15:00:00,2015,11,5,home,0,0,1,1
+2015-11-28,Bristol City,0,England,Rotherham United,3,Championship,2015-11-28,15:00:00,2015,11,5,home,0,0,1,3
+2015-11-28,Milton Keynes Dons,0,England,Wolverhampton Wanderers,0,Championship,2015-11-28,15:00:00,2015,11,5,draw,0,1,0,0
+2015-11-28,Birmingham City,1,England,Brighton &amp; Hove Albion,2,Championship,2015-11-28,15:00:00,2015,11,5,home,0,0,1,3
+2015-11-28,Reading,1,England,Nottingham Forest,3,Championship,2015-11-28,15:00:00,2015,11,5,home,0,0,1,4
+2015-11-28,Sheffield Wednesday,2,England,Blackburn Rovers,2,Championship,2015-11-28,15:00:00,2015,11,5,draw,0,1,0,4
+2015-11-28,Hamilton Academical,2,Scotland,Dundee United,1,Premiership,2015-11-28,15:00:00,2015,11,5,away,1,0,0,3
+2015-11-28,Hearts,2,Scotland,Motherwell,2,Premiership,2015-11-28,15:00:00,2015,11,5,draw,0,1,0,4
+2015-11-28,Ross County,1,Scotland,Aberdeen,3,Premiership,2015-11-28,15:00:00,2015,11,5,home,0,0,1,4
+2015-11-28,Partick Thistle,5,Scotland,Kilmarnock,2,Premiership,2015-11-28,15:00:00,2015,11,5,away,1,0,0,7
+2015-11-29,Celtic,3,Scotland,Inverness CT,1,Premiership,2015-11-29,12:15:00,2015,11,6,away,1,0,0,4
+2015-11-30,Brentford,1,England,Bolton Wanderers,1,Championship,2015-11-30,19:45:00,2015,11,0,draw,0,1,0,2
+2015-12-03,Queens Park Rangers,1,England,Reading,0,Championship,2015-12-03,20:00:00,2015,12,3,away,1,0,0,1
+2015-12-04,Middlesbrough,2,England,Ipswich Town,0,Championship,2015-12-04,19:45:00,2015,12,4,away,1,0,0,2
+2015-12-05,Cardiff City,3,England,Bolton Wanderers,2,Championship,2015-12-05,15:00:00,2015,12,5,away,1,0,0,5
+2015-12-05,Milton Keynes Dons,0,England,Brentford,2,Championship,2015-12-05,15:00:00,2015,12,5,home,0,0,1,2
+2015-12-05,Charlton Athletic,2,England,Brighton &amp; Hove Albion,3,Championship,2015-12-05,15:00:00,2015,12,5,home,0,0,1,5
+2015-12-05,St. Johnstone,3,Scotland,Ross County,2,Premiership,2015-12-05,15:00:00,2015,12,5,away,1,0,0,5
+2015-12-05,Dundee United,1,Scotland,Kilmarnock,1,Premiership,2015-12-05,15:00:00,2015,12,5,draw,0,1,0,2
+2015-12-05,Aberdeen,2,Scotland,Dundee,0,Premiership,2015-12-05,12:30:00,2015,12,5,away,1,0,0,2
+2015-12-05,Blackburn Rovers,2,England,Bristol City,0,Championship,2015-12-05,15:00:00,2015,12,5,away,1,0,0,2
+2015-12-05,Preston North End,2,England,Burnley,0,Championship,2015-12-05,15:00:00,2015,12,5,away,1,0,0,2
+2015-12-05,Hull City,1,England,Leeds United,2,Championship,2015-12-05,15:00:00,2015,12,5,home,0,0,1,3
+2015-12-05,Fulham,0,England,Nottingham Forest,3,Championship,2015-12-05,15:00:00,2015,12,5,home,0,0,1,3
+2015-12-05,Wolverhampton Wanderers,2,England,Rotherham United,1,Championship,2015-12-05,15:00:00,2015,12,5,away,1,0,0,3
+2015-12-05,Huddersfield Town,2,England,Birmingham City,0,Championship,2015-12-05,15:00:00,2015,12,5,away,1,0,0,2
+2015-12-06,Derby County,0,England,Sheffield Wednesday,0,Championship,2015-12-06,13:15:00,2015,12,6,draw,0,1,0,0
+2015-12-11,Nottingham Forest,1,England,Wolverhampton Wanderers,1,Championship,2015-12-11,19:45:00,2015,12,4,draw,0,1,0,2
+2015-12-11,Rotherham United,0,England,Blackburn Rovers,1,Championship,2015-12-11,19:45:00,2015,12,4,home,0,0,1,1
+2015-12-12,Burnley,0,England,Queens Park Rangers,0,Championship,2015-12-12,15:00:00,2015,12,5,draw,0,1,0,0
+2015-12-12,Reading,0,England,Preston North End,1,Championship,2015-12-12,15:00:00,2015,12,5,home,0,0,1,1
+2015-12-12,Birmingham City,0,England,Middlesbrough,0,Championship,2015-12-12,15:00:00,2015,12,5,draw,0,1,0,0
+2015-12-12,Bolton Wanderers,0,England,Hull City,1,Championship,2015-12-12,15:00:00,2015,12,5,home,0,0,1,1
+2015-12-12,Bristol City,2,England,Huddersfield Town,1,Championship,2015-12-12,15:00:00,2015,12,5,away,1,0,0,3
+2015-12-12,Brentford,2,England,Fulham,2,Championship,2015-12-12,15:00:00,2015,12,5,draw,0,1,0,4
+2015-12-12,Brighton &amp; Hove Albion,2,England,Derby County,2,Championship,2015-12-12,15:00:00,2015,12,5,draw,0,1,0,4
+2015-12-12,Dundee,1,Scotland,Motherwell,3,Premiership,2015-12-12,15:00:00,2015,12,5,home,0,0,1,4
+2015-12-12,Sheffield Wednesday,2,England,Cardiff City,2,Championship,2015-12-12,15:00:00,2015,12,5,draw,0,1,0,4
+2015-12-12,Ipswich Town,1,England,Milton Keynes Dons,0,Championship,2015-12-12,12:30:00,2015,12,5,away,1,0,0,1
+2015-12-12,Leeds United,0,England,Charlton Athletic,0,Championship,2015-12-12,15:00:00,2015,12,5,draw,0,1,0,0
+2015-12-12,Partick Thistle,1,Scotland,Dundee United,0,Premiership,2015-12-12,15:00:00,2015,12,5,away,1,0,0,1
+2015-12-12,Ross County,3,Scotland,Hamilton Academical,1,Premiership,2015-12-12,15:00:00,2015,12,5,away,1,0,0,4
+2015-12-12,Kilmarnock,1,Scotland,Inverness CT,2,Premiership,2015-12-12,15:00:00,2015,12,5,home,0,0,1,3
+2015-12-12,Hearts,0,Scotland,Aberdeen,1,Premiership,2015-12-12,12:30:00,2015,12,5,home,0,0,1,1
+2015-12-13,Celtic,3,Scotland,St. Johnstone,0,Premiership,2015-12-13,12:30:00,2015,12,6,away,1,0,0,3
+2015-12-14,Nottingham Forest,0,England,Blackburn Rovers,0,Championship,2015-12-14,19:45:00,2015,12,0,draw,0,1,0,0
+2015-12-15,Bristol City,0,England,Derby County,4,Championship,2015-12-15,19:45:00,2015,12,1,home,0,0,1,4
+2015-12-15,Rotherham United,0,England,Huddersfield Town,2,Championship,2015-12-15,19:45:00,2015,12,1,home,0,0,1,2
+2015-12-15,Burnley,0,England,Middlesbrough,1,Championship,2015-12-15,19:45:00,2015,12,1,home,0,0,1,1
+2015-12-15,Sheffield Wednesday,1,England,Milton Keynes Dons,2,Championship,2015-12-15,19:45:00,2015,12,1,home,0,0,1,3
+2015-12-15,Birmingham City,1,England,Preston North End,1,Championship,2015-12-15,19:45:00,2015,12,1,draw,0,1,0,2
+2015-12-15,Brighton &amp; Hove Albion,2,England,Queens Park Rangers,2,Championship,2015-12-15,19:45:00,2015,12,1,draw,0,1,0,4
+2015-12-15,Brentford,2,England,Cardiff City,3,Championship,2015-12-15,19:45:00,2015,12,1,home,0,0,1,5
+2015-12-15,Bolton Wanderers,2,England,Charlton Athletic,2,Championship,2015-12-15,19:45:00,2015,12,1,draw,0,1,0,4
+2015-12-15,Ipswich Town,2,England,Fulham,1,Championship,2015-12-15,19:45:00,2015,12,1,away,1,0,0,3
+2015-12-16,Reading,1,England,Hull City,2,Championship,2015-12-16,19:45:00,2015,12,2,home,0,0,1,3
+2015-12-17,Leeds United,3,England,Wolverhampton Wanderers,2,Championship,2015-12-17,19:45:00,2015,12,3,away,1,0,0,5
+2015-12-18,Cardiff City,0,England,Birmingham City,1,Championship,2015-12-18,19:45:00,2015,12,4,home,0,0,1,1
+2015-12-19,Huddersfield Town,2,England,Brentford,4,Championship,2015-12-19,15:00:00,2015,12,5,home,0,0,1,6
+2015-12-19,Queens Park Rangers,1,England,Bristol City,1,Championship,2015-12-19,15:00:00,2015,12,5,draw,0,1,0,2
+2015-12-19,Charlton Athletic,0,England,Burnley,4,Championship,2015-12-19,15:00:00,2015,12,5,home,0,0,1,4
+2015-12-19,Derby County,1,England,Ipswich Town,0,Championship,2015-12-19,15:00:00,2015,12,5,away,1,0,0,1
+2015-12-19,Middlesbrough,3,England,Brighton &amp; Hove Albion,0,Championship,2015-12-19,12:30:00,2015,12,5,away,1,0,0,3
+2015-12-19,Motherwell,2,Scotland,Celtic,1,Premiership,2015-12-19,15:00:00,2015,12,5,away,1,0,0,3
+2015-12-19,Hamilton Academical,0,Scotland,Dundee,4,Premiership,2015-12-19,15:00:00,2015,12,5,home,0,0,1,4
+2015-12-19,Dundee United,2,Scotland,Inverness CT,2,Premiership,2015-12-19,15:00:00,2015,12,5,draw,0,1,0,4
+2015-12-19,Aberdeen,4,Scotland,Kilmarnock,0,Premiership,2015-12-19,15:00:00,2015,12,5,away,1,0,0,4
+2015-12-19,Ross County,0,Scotland,Partick Thistle,1,Premiership,2015-12-19,15:00:00,2015,12,5,home,0,0,1,1
+2015-12-19,Hearts,0,Scotland,St. Johnstone,0,Premiership,2015-12-19,15:00:00,2015,12,5,draw,0,1,0,0
+2015-12-19,Milton Keynes Dons,1,England,Nottingham Forest,2,Championship,2015-12-19,15:00:00,2015,12,5,home,0,0,1,3
+2015-12-19,Hull City,0,England,Rotherham United,2,Championship,2015-12-19,15:00:00,2015,12,5,home,0,0,1,2
+2015-12-19,Fulham,2,England,Bolton Wanderers,2,Championship,2015-12-19,15:00:00,2015,12,5,draw,0,1,0,4
+2015-12-20,Wolverhampton Wanderers,1,England,Sheffield Wednesday,4,Championship,2015-12-20,14:00:00,2015,12,6,home,0,0,1,5
+2015-12-20,Preston North End,0,England,Leeds United,1,Championship,2015-12-20,15:00:00,2015,12,6,home,0,0,1,1
+2015-12-20,Blackburn Rovers,0,England,Reading,1,Championship,2015-12-20,15:00:00,2015,12,6,home,0,0,1,1
+2015-12-26,Inverness CT,2,Scotland,Aberdeen,2,Premiership,2015-12-26,15:00:00,2015,12,5,draw,0,1,0,4
+2015-12-26,Brighton &amp; Hove Albion,0,England,Brentford,0,Championship,2015-12-26,13:00:00,2015,12,5,draw,0,1,0,0
+2015-12-26,Charlton Athletic,1,England,Bristol City,1,Championship,2015-12-26,15:00:00,2015,12,5,draw,0,1,0,2
+2015-12-26,Fulham,0,England,Derby County,2,Championship,2015-12-26,15:00:00,2015,12,5,home,0,0,1,2
+2015-12-26,Preston North End,1,England,Huddersfield Town,3,Championship,2015-12-26,15:00:00,2015,12,5,home,0,0,1,4
+2015-12-26,Burnley,0,England,Hull City,3,Championship,2015-12-26,15:00:00,2015,12,5,home,0,0,1,3
+2015-12-26,Queens Park Rangers,1,England,Ipswich Town,2,Championship,2015-12-26,15:00:00,2015,12,5,home,0,0,1,3
+2015-12-26,Cardiff City,1,England,Milton Keynes Dons,2,Championship,2015-12-26,15:00:00,2015,12,5,home,0,0,1,3
+2015-12-26,Bolton Wanderers,0,England,Rotherham United,4,Championship,2015-12-26,15:00:00,2015,12,5,home,0,0,1,4
+2015-12-26,Birmingham City,0,England,Sheffield Wednesday,3,Championship,2015-12-26,15:00:00,2015,12,5,home,0,0,1,3
+2015-12-26,Reading,0,England,Wolverhampton Wanderers,1,Championship,2015-12-26,17:15:00,2015,12,5,home,0,0,1,1
+2015-12-26,Kilmarnock,1,Scotland,Hamilton Academical,0,Premiership,2015-12-26,15:00:00,2015,12,5,away,1,0,0,1
+2015-12-26,Dundee,2,Scotland,Ross County,5,Premiership,2015-12-26,15:00:00,2015,12,5,home,0,0,1,7
+2015-12-27,Celtic,2,Scotland,Hearts,2,Premiership,2015-12-27,14:00:00,2015,12,6,draw,0,1,0,4
+2015-12-27,Leeds United,1,England,Nottingham Forest,1,Championship,2015-12-27,16:30:00,2015,12,6,draw,0,1,0,2
+2015-12-28,Milton Keynes Dons,0,England,Birmingham City,1,Championship,2015-12-28,15:00:00,2015,12,0,home,0,0,1,1
+2015-12-28,Blackburn Rovers,0,England,Bolton Wanderers,1,Championship,2015-12-28,12:45:00,2015,12,0,home,0,0,1,1
+2015-12-28,Bristol City,0,England,Burnley,4,Championship,2015-12-28,15:00:00,2015,12,0,home,0,0,1,4
+2015-12-28,Wolverhampton Wanderers,2,England,Charlton Athletic,0,Championship,2015-12-28,15:00:00,2015,12,0,away,1,0,0,2
+2015-12-28,Hull City,0,England,Preston North End,1,Championship,2015-12-28,15:00:00,2015,12,0,home,0,0,1,1
+2015-12-28,Huddersfield Town,1,England,Queens Park Rangers,1,Championship,2015-12-28,15:00:00,2015,12,0,draw,0,1,0,2
+2015-12-28,Brentford,2,England,Reading,1,Championship,2015-12-28,15:00:00,2015,12,0,away,1,0,0,3
+2015-12-28,Sheffield Wednesday,0,England,Middlesbrough,1,Championship,2015-12-28,17:15:00,2015,12,0,home,0,0,1,1
+2015-12-29,Kilmarnock,2,Scotland,Ross County,3,Premiership,2015-12-29,19:45:00,2015,12,1,home,0,0,1,5
+2015-12-29,Ipswich Town,1,England,Brighton &amp; Hove Albion,0,Championship,2015-12-29,19:45:00,2015,12,1,away,1,0,0,1
+2015-12-29,Rotherham United,1,England,Fulham,4,Championship,2015-12-29,19:45:00,2015,12,1,home,0,0,1,5
+2015-12-29,Derby County,2,England,Leeds United,2,Championship,2015-12-29,19:45:00,2015,12,1,draw,0,1,0,4
+2015-12-29,Nottingham Forest,1,England,Cardiff City,1,Championship,2015-12-29,19:45:00,2015,12,1,draw,0,1,0,2
+2015-12-30,St. Johnstone,0,Scotland,Motherwell,2,Premiership,2015-12-30,19:45:00,2015,12,2,home,0,0,1,2
+2015-12-30,Inverness CT,4,Scotland,Hamilton Academical,3,Premiership,2015-12-30,15:00:00,2015,12,2,away,1,0,0,7
+2015-12-30,Partick Thistle,0,Scotland,Aberdeen,0,Premiership,2015-12-30,19:45:00,2015,12,2,draw,0,1,0,0
+2015-12-30,Dundee United,2,Scotland,Hearts,3,Premiership,2015-12-30,19:45:00,2015,12,2,home,0,0,1,5
+2016-01-01,Hull City,2,England,Queens Park Rangers,1,Championship,2016-01-01,17:15:00,2016,1,4,away,1,0,0,3
+2016-01-01,Wolverhampton Wanderers,1,England,Brighton &amp; Hove Albion,0,Championship,2016-01-01,15:00:00,2016,1,4,away,1,0,0,1
+2016-01-02,Dundee United,1,Scotland,Dundee,2,Premiership,2016-01-02,12:30:00,2016,1,5,home,0,0,1,3
+2016-01-02,Partick Thistle,0,Scotland,Celtic,1,Premiership,2016-01-02,15:00:00,2016,1,5,home,0,0,1,1
+2016-01-02,Ross County,0,Scotland,Inverness CT,2,Premiership,2016-01-02,15:00:00,2016,1,5,home,0,0,1,2
+2016-01-02,Rotherham United,1,England,Preston North End,2,Championship,2016-01-02,15:00:00,2016,1,5,home,0,0,1,3
+2016-01-02,Hearts,2,Scotland,Kilmarnock,2,Premiership,2016-01-02,15:00:00,2016,1,5,draw,0,1,0,4
+2016-01-02,Hamilton Academical,3,Scotland,Motherwell,3,Premiership,2016-01-02,15:00:00,2016,1,5,draw,0,1,0,6
+2016-01-02,Derby County,0,England,Middlesbrough,2,Championship,2016-01-02,15:00:00,2016,1,5,home,0,0,1,2
+2016-01-02,Milton Keynes Dons,1,England,Leeds United,1,Championship,2016-01-02,15:00:00,2016,1,5,draw,0,1,0,2
+2016-01-02,Sheffield Wednesday,1,England,Fulham,0,Championship,2016-01-02,15:00:00,2016,1,5,away,1,0,0,1
+2016-01-02,Nottingham Forest,1,England,Charlton Athletic,1,Championship,2016-01-02,15:00:00,2016,1,5,draw,0,1,0,2
+2016-01-02,Blackburn Rovers,0,England,Cardiff City,1,Championship,2016-01-02,15:00:00,2016,1,5,home,0,0,1,1
+2016-01-02,Ipswich Town,0,England,Burnley,0,Championship,2016-01-02,15:00:00,2016,1,5,draw,0,1,0,0
+2016-01-02,Huddersfield Town,2,England,Bolton Wanderers,0,Championship,2016-01-02,15:00:00,2016,1,5,away,1,0,0,2
+2016-01-02,Brentford,1,England,Birmingham City,2,Championship,2016-01-02,15:00:00,2016,1,5,home,0,0,1,3
+2016-01-02,Bristol City,0,England,Reading,1,Championship,2016-01-02,15:00:00,2016,1,5,home,0,0,1,1
+2016-01-12,Middlesbrough,1,England,Brentford,0,Championship,2016-01-12,19:45:00,2016,1,1,away,1,0,0,1
+2016-01-12,Fulham,2,England,Wolverhampton Wanderers,3,Championship,2016-01-12,19:45:00,2016,1,1,home,0,0,1,5
+2016-01-12,Birmingham City,1,England,Nottingham Forest,1,Championship,2016-01-12,19:45:00,2016,1,1,draw,0,1,0,2
+2016-01-12,Bolton Wanderers,2,England,Sheffield Wednesday,3,Championship,2016-01-12,19:45:00,2016,1,1,home,0,0,1,5
+2016-01-12,Brighton &amp; Hove Albion,0,England,Rotherham United,2,Championship,2016-01-12,19:45:00,2016,1,1,home,0,0,1,2
+2016-01-12,Queens Park Rangers,1,England,Blackburn Rovers,1,Championship,2016-01-12,19:45:00,2016,1,1,draw,0,1,0,2
+2016-01-12,Burnley,5,England,Milton Keynes Dons,0,Championship,2016-01-12,19:45:00,2016,1,1,away,1,0,0,5
+2016-01-12,Leeds United,1,England,Ipswich Town,2,Championship,2016-01-12,19:45:00,2016,1,1,home,0,0,1,3
+2016-01-12,Charlton Athletic,0,England,Huddersfield Town,5,Championship,2016-01-12,19:45:00,2016,1,1,home,0,0,1,5
+2016-01-12,Reading,1,England,Derby County,1,Championship,2016-01-12,19:45:00,2016,1,1,draw,0,1,0,2
+2016-01-12,Preston North End,2,England,Bristol City,1,Championship,2016-01-12,19:45:00,2016,1,1,away,1,0,0,3
+2016-01-13,Cardiff City,0,England,Hull City,2,Championship,2016-01-13,19:45:00,2016,1,2,home,0,0,1,2
+2016-01-15,Burnley,3,England,Brentford,1,Championship,2016-01-15,19:45:00,2016,1,4,away,1,0,0,4
+2016-01-15,Celtic,4,Scotland,Dundee United,1,Premiership,2016-01-15,19:45:00,2016,1,4,away,1,0,0,5
+2016-01-16,Motherwell,0,Scotland,Hearts,6,Premiership,2016-01-16,15:00:00,2016,1,5,home,0,0,1,6
+2016-01-16,Hamilton Academical,0,Scotland,St. Johnstone,0,Premiership,2016-01-16,15:00:00,2016,1,5,draw,0,1,0,0
+2016-01-16,Dundee,4,Scotland,Partick Thistle,2,Premiership,2016-01-16,15:00:00,2016,1,5,away,1,0,0,6
+2016-01-16,Inverness CT,1,Scotland,Kilmarnock,2,Premiership,2016-01-16,15:00:00,2016,1,5,home,0,0,1,3
+2016-01-16,Reading,0,England,Milton Keynes Dons,1,Championship,2016-01-16,15:00:00,2016,1,5,home,0,0,1,1
+2016-01-16,Queens Park Rangers,3,England,Rotherham United,0,Championship,2016-01-16,15:00:00,2016,1,5,away,1,0,0,3
+2016-01-16,Cardiff City,3,England,Wolverhampton Wanderers,1,Championship,2016-01-16,15:00:00,2016,1,5,away,1,0,0,4
+2016-01-16,Brighton &amp; Hove Albion,1,England,Blackburn Rovers,0,Championship,2016-01-16,15:00:00,2016,1,5,away,1,0,0,1
+2016-01-16,Middlesbrough,0,England,Bristol City,1,Championship,2016-01-16,15:00:00,2016,1,5,home,0,0,1,1
+2016-01-16,Birmingham City,3,England,Derby County,0,Championship,2016-01-16,15:00:00,2016,1,5,away,1,0,0,3
+2016-01-16,Leeds United,0,England,Sheffield Wednesday,2,Championship,2016-01-16,12:30:00,2016,1,5,home,0,0,1,2
+2016-01-16,Charlton Athletic,0,England,Hull City,6,Championship,2016-01-16,15:00:00,2016,1,5,home,0,0,1,6
+2016-01-16,Preston North End,1,England,Ipswich Town,1,Championship,2016-01-16,15:00:00,2016,1,5,draw,0,1,0,2
+2016-01-16,Bolton Wanderers,0,England,Nottingham Forest,3,Championship,2016-01-16,15:00:00,2016,1,5,home,0,0,1,3
+2016-01-16,Fulham,1,England,Huddersfield Town,1,Championship,2016-01-16,15:00:00,2016,1,5,draw,0,1,0,2
+2016-01-17,Aberdeen,3,Scotland,Ross County,2,Premiership,2016-01-17,12:15:00,2016,1,6,away,1,0,0,5
+2016-01-19,Hamilton Academical,1,Scotland,Celtic,8,Premiership,2016-01-19,19:45:00,2016,1,1,home,0,0,1,9
+2016-01-22,Dundee,0,Scotland,Aberdeen,1,Premiership,2016-01-22,19:45:00,2016,1,4,home,0,0,1,1
+2016-01-23,St. Johnstone,1,Scotland,Celtic,3,Premiership,2016-01-23,15:00:00,2016,1,5,home,0,0,1,4
+2016-01-23,Kilmarnock,1,Scotland,Dundee United,5,Premiership,2016-01-23,15:00:00,2016,1,5,home,0,0,1,6
+2016-01-23,Partick Thistle,0,Scotland,Inverness CT,0,Premiership,2016-01-23,15:00:00,2016,1,5,draw,0,1,0,0
+2016-01-23,Ross County,2,Scotland,Motherwell,1,Premiership,2016-01-23,15:00:00,2016,1,5,away,1,0,0,3
+2016-01-23,Hull City,1,England,Fulham,0,Championship,2016-01-23,15:00:00,2016,1,5,away,1,0,0,1
+2016-01-23,Blackburn Rovers,1,England,Charlton Athletic,1,Championship,2016-01-23,15:00:00,2016,1,5,draw,0,1,0,2
+2016-01-23,Rotherham United,2,England,Cardiff City,2,Championship,2016-01-23,15:00:00,2016,1,5,draw,0,1,0,4
+2016-01-23,Huddersfield Town,1,England,Brighton &amp; Hove Albion,2,Championship,2016-01-23,15:00:00,2016,1,5,home,0,0,1,3
+2016-01-23,Milton Keynes Dons,1,England,Bolton Wanderers,3,Championship,2016-01-23,15:00:00,2016,1,5,home,0,0,1,4
+2016-01-23,Ipswich Town,0,England,Birmingham City,3,Championship,2016-01-23,15:00:00,2016,1,5,home,0,0,1,3
+2016-01-23,Wolverhampton Wanderers,1,England,Queens Park Rangers,1,Championship,2016-01-23,12:30:00,2016,1,5,draw,0,1,0,2
+2016-01-23,Bristol City,0,England,Leeds United,1,Championship,2016-01-23,15:00:00,2016,1,5,home,0,0,1,1
+2016-01-23,Nottingham Forest,1,England,Middlesbrough,0,Championship,2016-01-23,15:00:00,2016,1,5,away,1,0,0,1
+2016-01-23,Brentford,3,England,Preston North End,1,Championship,2016-01-23,15:00:00,2016,1,5,away,1,0,0,4
+2016-01-23,Sheffield Wednesday,1,England,Reading,1,Championship,2016-01-23,15:00:00,2016,1,5,draw,0,1,0,2
+2016-01-24,Hearts,0,Scotland,Hamilton Academical,0,Premiership,2016-01-24,12:45:00,2016,1,6,draw,0,1,0,0
+2016-01-25,Derby County,1,England,Burnley,4,Championship,2016-01-25,19:45:00,2016,1,0,home,0,0,1,5
+2016-01-26,Leeds United,1,England,Brentford,1,Championship,2016-01-26,19:45:00,2016,1,1,draw,0,1,0,2
+2016-01-26,Queens Park Rangers,0,England,Nottingham Forest,0,Championship,2016-01-26,19:45:00,2016,1,1,draw,0,1,0,0
+2016-01-30,Charlton Athletic,4,England,Rotherham United,1,Championship,2016-01-30,15:00:00,2016,1,5,away,1,0,0,5
+2016-01-30,Birmingham City,0,England,Bristol City,0,Championship,2016-01-30,15:00:00,2016,1,5,draw,0,1,0,0
+2016-01-30,Cardiff City,3,England,Huddersfield Town,2,Championship,2016-01-30,15:00:00,2016,1,5,away,1,0,0,5
+2016-01-30,Motherwell,2,Scotland,Dundee,2,Premiership,2016-01-30,15:00:00,2016,1,5,draw,0,1,0,4
+2016-01-30,Hamilton Academical,1,Scotland,Kilmarnock,0,Premiership,2016-01-30,15:00:00,2016,1,5,away,1,0,0,1
+2016-02-02,Preston North End,0,England,Derby County,0,Championship,2016-02-02,19:45:00,2016,2,1,draw,0,1,0,0
+2016-02-02,Reading,1,England,Ipswich Town,2,Championship,2016-02-02,19:45:00,2016,2,1,home,0,0,1,3
+2016-02-02,Burnley,1,England,Sheffield Wednesday,1,Championship,2016-02-02,19:45:00,2016,2,1,draw,0,1,0,2
+2016-02-02,Bolton Wanderers,2,England,Wolverhampton Wanderers,2,Championship,2016-02-02,19:45:00,2016,2,1,draw,0,1,0,4
+2016-02-02,Motherwell,0,Scotland,Partick Thistle,1,Premiership,2016-02-02,19:45:00,2016,2,1,home,0,0,1,1
+2016-02-03,Celtic,1,Scotland,Aberdeen,2,Premiership,2016-02-03,19:45:00,2016,2,2,home,0,0,1,3
+2016-02-05,Brentford,0,England,Brighton &amp; Hove Albion,3,Championship,2016-02-05,19:45:00,2016,2,4,home,0,0,1,3
+2016-02-06,Aberdeen,4,Scotland,St. Johnstone,3,Premiership,2016-02-06,15:00:00,2016,2,5,away,1,0,0,7
+2016-02-06,Derby County,1,England,Fulham,1,Championship,2016-02-06,15:00:00,2016,2,5,draw,0,1,0,2
+2016-02-06,Sheffield Wednesday,2,England,Birmingham City,1,Championship,2016-02-06,15:00:00,2016,2,5,away,1,0,0,3
+2016-02-06,Milton Keynes Dons,0,England,Cardiff City,0,Championship,2016-02-06,15:00:00,2016,2,5,draw,0,1,0,0
+2016-02-06,Rotherham United,1,England,Bolton Wanderers,2,Championship,2016-02-06,15:00:00,2016,2,5,home,0,0,1,3
+2016-02-06,Hull City,0,England,Burnley,1,Championship,2016-02-06,15:00:00,2016,2,5,home,0,0,1,1
+2016-02-06,Bristol City,1,England,Charlton Athletic,0,Championship,2016-02-06,15:00:00,2016,2,5,away,1,0,0,1
+2016-02-06,Nottingham Forest,1,England,Leeds United,0,Championship,2016-02-06,15:00:00,2016,2,5,away,1,0,0,1
+2016-02-06,Blackburn Rovers,1,England,Middlesbrough,1,Championship,2016-02-06,15:00:00,2016,2,5,draw,0,1,0,2
+2016-02-06,Huddersfield Town,1,England,Preston North End,2,Championship,2016-02-06,15:00:00,2016,2,5,home,0,0,1,3
+2016-02-06,Ipswich Town,0,England,Queens Park Rangers,1,Championship,2016-02-06,15:00:00,2016,2,5,home,0,0,1,1
+2016-02-06,Wolverhampton Wanderers,0,England,Reading,0,Championship,2016-02-06,15:00:00,2016,2,5,draw,0,1,0,0
+2016-02-09,Middlesbrough,1,England,Milton Keynes Dons,1,Championship,2016-02-09,19:45:00,2016,2,1,draw,0,1,0,2
+2016-02-10,Hearts,3,Scotland,Ross County,0,Premiership,2016-02-10,19:45:00,2016,2,2,away,1,0,0,3
+2016-02-12,St. Johnstone,0,Scotland,Dundee,2,Premiership,2016-02-12,19:45:00,2016,2,4,home,0,0,1,2
+2016-02-13,Kilmarnock,2,Scotland,Motherwell,0,Premiership,2016-02-13,15:00:00,2016,2,5,away,1,0,0,2
+2016-02-13,Birmingham City,0,England,Rotherham United,0,Championship,2016-02-13,15:00:00,2016,2,5,draw,0,1,0,0
+2016-02-13,Brentford,0,England,Sheffield Wednesday,4,Championship,2016-02-13,15:00:00,2016,2,5,home,0,0,1,4
+2016-02-13,Preston North End,2,England,Wolverhampton Wanderers,1,Championship,2016-02-13,15:00:00,2016,2,5,away,1,0,0,3
+2016-02-13,Milton Keynes Dons,1,England,Derby County,0,Championship,2016-02-13,15:00:00,2016,2,5,away,1,0,0,1
+2016-02-13,Ross County,0,Scotland,Celtic,2,Premiership,2016-02-13,15:00:00,2016,2,5,home,0,0,1,2
+2016-02-13,Dundee United,0,Scotland,Hamilton Academical,0,Premiership,2016-02-13,15:00:00,2016,2,5,draw,0,1,0,0
+2016-02-13,Burnley,0,England,Reading,0,Championship,2016-02-13,15:00:00,2016,2,5,draw,0,1,0,0
+2016-02-13,Huddersfield Town,2,England,Nottingham Forest,0,Championship,2016-02-13,15:00:00,2016,2,5,away,1,0,0,2
+2016-02-13,Fulham,3,England,Queens Park Rangers,1,Championship,2016-02-13,12:30:00,2016,2,5,away,1,0,0,4
+2016-02-13,Hull City,2,England,Blackburn Rovers,0,Championship,2016-02-13,15:00:00,2016,2,5,away,1,0,0,2
+2016-02-13,Bolton Wanderers,2,England,Brighton &amp; Hove Albion,3,Championship,2016-02-13,15:00:00,2016,2,5,home,0,0,1,5
+2016-02-13,Cardiff City,0,England,Charlton Athletic,0,Championship,2016-02-13,15:00:00,2016,2,5,draw,0,1,0,0
+2016-02-13,Ipswich Town,1,England,Bristol City,2,Championship,2016-02-13,15:00:00,2016,2,5,home,0,0,1,3
+2016-02-15,Aberdeen,1,Scotland,Inverness CT,3,Premiership,2016-02-15,19:45:00,2016,2,0,home,0,0,1,4
+2016-02-15,Middlesbrough,0,England,Leeds United,0,Championship,2016-02-15,19:45:00,2016,2,0,draw,0,1,0,0
+2016-02-16,Motherwell,3,Scotland,Dundee United,0,Premiership,2016-02-16,19:45:00,2016,2,1,away,1,0,0,3
+2016-02-16,Brighton &amp; Hove Albion,0,England,Hull City,0,Championship,2016-02-16,19:45:00,2016,2,1,draw,0,1,0,0
+2016-02-16,Fulham,0,England,Blackburn Rovers,3,Championship,2016-02-16,19:45:00,2016,2,1,home,0,0,1,3
+2016-02-20,Inverness CT,0,Scotland,Celtic,3,Premiership,2016-02-20,15:00:00,2016,2,5,home,0,0,1,3
+2016-02-20,Brighton &amp; Hove Albion,1,England,Cardiff City,4,Championship,2016-02-20,12:30:00,2016,2,5,home,0,0,1,5
+2016-02-20,Queens Park Rangers,1,England,Bolton Wanderers,1,Championship,2016-02-20,15:00:00,2016,2,5,draw,0,1,0,2
+2016-02-20,Rotherham United,0,England,Burnley,2,Championship,2016-02-20,15:00:00,2016,2,5,home,0,0,1,2
+2016-02-20,Hearts,1,Scotland,Dundee United,2,Premiership,2016-02-20,15:00:00,2016,2,5,home,0,0,1,3
+2016-02-20,Wolverhampton Wanderers,0,England,Huddersfield Town,1,Championship,2016-02-20,15:00:00,2016,2,5,home,0,0,1,1
+2016-02-20,Bristol City,2,England,Milton Keynes Dons,0,Championship,2016-02-20,15:00:00,2016,2,5,away,1,0,0,2
+2016-02-20,Sheffield Wednesday,0,England,Preston North End,1,Championship,2016-02-20,15:00:00,2016,2,5,home,0,0,1,1
+2016-02-20,Motherwell,1,Scotland,St. Johnstone,2,Premiership,2016-02-20,15:00:00,2016,2,5,home,0,0,1,3
+2016-02-20,Hamilton Academical,1,Scotland,Ross County,2,Premiership,2016-02-20,15:00:00,2016,2,5,home,0,0,1,3
+2016-02-20,Dundee,0,Scotland,Kilmarnock,0,Premiership,2016-02-20,15:00:00,2016,2,5,draw,0,1,0,0
+2016-02-20,Derby County,3,England,Brentford,1,Championship,2016-02-20,15:00:00,2016,2,5,away,1,0,0,4
+2016-02-20,Charlton Athletic,0,England,Fulham,3,Championship,2016-02-20,15:00:00,2016,2,5,home,0,0,1,3
+2016-02-23,Brighton &amp; Hove Albion,4,England,Bristol City,0,Championship,2016-02-23,19:45:00,2016,2,1,away,1,0,0,4
+2016-02-23,St. Johnstone,0,Scotland,Partick Thistle,2,Premiership,2016-02-23,19:45:00,2016,2,1,home,0,0,1,2
+2016-02-23,Bolton Wanderers,0,England,Birmingham City,1,Championship,2016-02-23,19:45:00,2016,2,1,home,0,0,1,1
+2016-02-23,Rotherham United,0,England,Reading,1,Championship,2016-02-23,20:00:00,2016,2,1,home,0,0,1,1
+2016-02-23,Queens Park Rangers,1,England,Sheffield Wednesday,1,Championship,2016-02-23,19:45:00,2016,2,1,draw,0,1,0,2
+2016-02-23,Charlton Athletic,1,England,Preston North End,2,Championship,2016-02-23,19:45:00,2016,2,1,home,0,0,1,3
+2016-02-23,Huddersfield Town,1,England,Milton Keynes Dons,1,Championship,2016-02-23,19:45:00,2016,2,1,draw,0,1,0,2
+2016-02-23,Cardiff City,1,England,Middlesbrough,3,Championship,2016-02-23,19:45:00,2016,2,1,home,0,0,1,4
+2016-02-23,Fulham,1,England,Leeds United,1,Championship,2016-02-23,19:45:00,2016,2,1,draw,0,1,0,2
+2016-02-23,Hull City,1,England,Ipswich Town,0,Championship,2016-02-23,19:45:00,2016,2,1,away,1,0,0,1
+2016-02-23,Nottingham Forest,0,England,Burnley,1,Championship,2016-02-23,19:45:00,2016,2,1,home,0,0,1,1
+2016-02-23,Wolverhampton Wanderers,0,England,Brentford,3,Championship,2016-02-23,19:45:00,2016,2,1,home,0,0,1,3
+2016-02-24,Blackburn Rovers,0,England,Derby County,1,Championship,2016-02-24,19:45:00,2016,2,2,home,0,0,1,1
+2016-02-26,Celtic,1,Scotland,Hamilton Academical,1,Premiership,2016-02-26,19:45:00,2016,2,4,draw,0,1,0,2
+2016-02-26,Sheffield Wednesday,0,England,Hull City,0,Championship,2016-02-26,19:45:00,2016,2,4,draw,0,1,0,0
+2016-02-27,Reading,4,England,Charlton Athletic,3,Championship,2016-02-27,15:00:00,2016,2,5,away,1,0,0,7
+2016-02-27,Dundee United,3,Scotland,Ross County,0,Premiership,2016-02-27,15:00:00,2016,2,5,away,1,0,0,3
+2016-02-27,Partick Thistle,1,Scotland,Motherwell,3,Premiership,2016-02-27,15:00:00,2016,2,5,home,0,0,1,4
+2016-02-27,Kilmarnock,0,Scotland,Hearts,1,Premiership,2016-02-27,15:00:00,2016,2,5,home,0,0,1,1
+2016-02-27,Inverness CT,1,Scotland,Dundee,1,Premiership,2016-02-27,15:00:00,2016,2,5,draw,0,1,0,2
+2016-02-27,St. Johnstone,1,Scotland,Aberdeen,1,Premiership,2016-02-27,15:00:00,2016,2,5,draw,0,1,0,2
+2016-02-27,Derby County,1,England,Wolverhampton Wanderers,2,Championship,2016-02-27,12:30:00,2016,2,5,home,0,0,1,3
+2016-02-27,Milton Keynes Dons,2,England,Blackburn Rovers,3,Championship,2016-02-27,15:00:00,2016,2,5,home,0,0,1,5
+2016-02-27,Burnley,2,England,Bolton Wanderers,1,Championship,2016-02-27,15:00:00,2016,2,5,away,1,0,0,3
+2016-02-27,Preston North End,1,England,Cardiff City,2,Championship,2016-02-27,15:00:00,2016,2,5,home,0,0,1,3
+2016-02-27,Middlesbrough,2,England,Fulham,0,Championship,2016-02-27,15:00:00,2016,2,5,away,1,0,0,2
+2016-02-27,Ipswich Town,1,England,Huddersfield Town,0,Championship,2016-02-27,15:00:00,2016,2,5,away,1,0,0,1
+2016-02-27,Birmingham City,0,England,Queens Park Rangers,2,Championship,2016-02-27,15:00:00,2016,2,5,home,0,0,1,2
+2016-02-27,Brentford,1,England,Rotherham United,2,Championship,2016-02-27,15:00:00,2016,2,5,home,0,0,1,3
+2016-02-27,Bristol City,2,England,Nottingham Forest,1,Championship,2016-02-27,15:00:00,2016,2,5,away,1,0,0,3
+2016-03-01,Middlesbrough,1,England,Blackburn Rovers,2,Championship,2016-03-01,19:45:00,2016,3,1,home,0,0,1,3
+2016-03-01,Inverness CT,0,Scotland,Hearts,2,Premiership,2016-03-01,19:45:00,2016,3,1,home,0,0,1,2
+2016-03-01,Ross County,2,Scotland,Kilmarnock,0,Premiership,2016-03-01,19:45:00,2016,3,1,away,1,0,0,2
+2016-03-02,Partick Thistle,2,Scotland,St. Johnstone,1,Premiership,2016-03-02,19:45:00,2016,3,2,away,1,0,0,3
+2016-03-02,Aberdeen,1,Scotland,Dundee United,0,Premiership,2016-03-02,19:45:00,2016,3,2,away,1,0,0,1
+2016-03-02,Dundee,0,Scotland,Celtic,0,Premiership,2016-03-02,19:45:00,2016,3,2,draw,0,1,0,0
+2016-03-03,Hull City,0,England,Birmingham City,1,Championship,2016-03-03,19:45:00,2016,3,3,home,0,0,1,1
+2016-03-04,Wolverhampton Wanderers,1,England,Middlesbrough,2,Championship,2016-03-04,19:45:00,2016,3,4,home,0,0,1,3
+2016-03-05,Partick Thistle,0,Scotland,Hearts,1,Premiership,2016-03-05,15:00:00,2016,3,5,home,0,0,1,1
+2016-03-05,Cardiff City,2,England,Bristol City,0,Championship,2016-03-05,12:00:00,2016,3,5,away,1,0,0,2
+2016-03-05,Blackburn Rovers,0,England,Burnley,1,Championship,2016-03-05,12:30:00,2016,3,5,home,0,0,1,1
+2016-03-05,Motherwell,1,Scotland,Hamilton Academical,0,Premiership,2016-03-05,15:00:00,2016,3,5,away,1,0,0,1
+2016-03-05,Huddersfield Town,0,England,Derby County,2,Championship,2016-03-05,15:00:00,2016,3,5,home,0,0,1,2
+2016-03-05,Nottingham Forest,0,England,Ipswich Town,1,Championship,2016-03-05,15:00:00,2016,3,5,home,0,0,1,1
+2016-03-05,Bolton Wanderers,1,England,Leeds United,2,Championship,2016-03-05,15:00:00,2016,3,5,home,0,0,1,3
+2016-03-05,Queens Park Rangers,0,England,Milton Keynes Dons,2,Championship,2016-03-05,15:00:00,2016,3,5,home,0,0,1,2
+2016-03-05,Brighton &amp; Hove Albion,0,England,Preston North End,0,Championship,2016-03-05,15:00:00,2016,3,5,draw,0,1,0,0
+2016-03-05,Fulham,2,England,Reading,2,Championship,2016-03-05,15:00:00,2016,3,5,draw,0,1,0,4
+2016-03-05,Rotherham United,1,England,Sheffield Wednesday,0,Championship,2016-03-05,15:00:00,2016,3,5,away,1,0,0,1
+2016-03-05,Charlton Athletic,2,England,Brentford,1,Championship,2016-03-05,15:00:00,2016,3,5,away,1,0,0,3
+2016-03-08,Reading,1,England,Huddersfield Town,3,Championship,2016-03-08,19:45:00,2016,3,1,home,0,0,1,4
+2016-03-08,Leeds United,2,England,Cardiff City,0,Championship,2016-03-08,19:45:00,2016,3,1,away,1,0,0,2
+2016-03-08,Aberdeen,2,Scotland,Partick Thistle,1,Premiership,2016-03-08,19:45:00,2016,3,1,away,1,0,0,3
+2016-03-08,Ipswich Town,2,England,Bolton Wanderers,2,Championship,2016-03-08,20:00:00,2016,3,1,draw,0,1,0,4
+2016-03-08,Milton Keynes Dons,0,England,Charlton Athletic,0,Championship,2016-03-08,19:45:00,2016,3,1,draw,0,1,0,0
+2016-03-08,Bristol City,1,England,Wolverhampton Wanderers,2,Championship,2016-03-08,19:45:00,2016,3,1,home,0,0,1,3
+2016-03-08,Middlesbrough,0,England,Rotherham United,1,Championship,2016-03-08,19:45:00,2016,3,1,home,0,0,1,1
+2016-03-08,Burnley,3,England,Fulham,2,Championship,2016-03-08,19:45:00,2016,3,1,away,1,0,0,5
+2016-03-08,Birmingham City,0,England,Blackburn Rovers,2,Championship,2016-03-08,19:45:00,2016,3,1,home,0,0,1,2
+2016-03-08,Sheffield Wednesday,0,England,Brighton &amp; Hove Albion,0,Championship,2016-03-08,19:45:00,2016,3,1,draw,0,1,0,0
+2016-03-08,Derby County,0,England,Queens Park Rangers,2,Championship,2016-03-08,19:45:00,2016,3,1,home,0,0,1,2
+2016-03-08,Preston North End,0,England,Nottingham Forest,1,Championship,2016-03-08,19:45:00,2016,3,1,home,0,0,1,1
+2016-03-09,Inverness CT,0,Scotland,St. Johnstone,1,Premiership,2016-03-09,19:45:00,2016,3,2,home,0,0,1,1
+2016-03-11,Dundee United,1,Scotland,Motherwell,2,Premiership,2016-03-11,19:45:00,2016,3,4,home,0,0,1,3
+2016-03-12,Kilmarnock,1,Scotland,Aberdeen,2,Premiership,2016-03-12,15:00:00,2016,3,5,home,0,0,1,3
+2016-03-12,Derby County,3,England,Rotherham United,3,Championship,2016-03-12,15:00:00,2016,3,5,draw,0,1,0,6
+2016-03-12,Brentford,0,England,Queens Park Rangers,3,Championship,2016-03-12,15:00:00,2016,3,5,home,0,0,1,3
+2016-03-12,Sheffield Wednesday,3,England,Nottingham Forest,0,Championship,2016-03-12,15:00:00,2016,3,5,away,1,0,0,3
+2016-03-12,Milton Keynes Dons,1,England,Hull City,1,Championship,2016-03-12,15:00:00,2016,3,5,draw,0,1,0,2
+2016-03-12,Burnley,3,England,Huddersfield Town,1,Championship,2016-03-12,15:00:00,2016,3,5,away,1,0,0,4
+2016-03-12,Bristol City,2,England,Fulham,1,Championship,2016-03-12,15:00:00,2016,3,5,away,1,0,0,3
+2016-03-12,Preston North End,2,England,Bolton Wanderers,1,Championship,2016-03-12,15:00:00,2016,3,5,away,1,0,0,3
+2016-03-12,Hearts,1,Scotland,Dundee,0,Premiership,2016-03-12,15:00:00,2016,3,5,away,1,0,0,1
+2016-03-12,Leeds United,2,England,Blackburn Rovers,1,Championship,2016-03-12,12:30:00,2016,3,5,away,1,0,0,3
+2016-03-12,Hamilton Academical,1,Scotland,Inverness CT,0,Premiership,2016-03-12,15:00:00,2016,3,5,away,1,0,0,1
+2016-03-12,Celtic,2,Scotland,Partick Thistle,1,Premiership,2016-03-12,12:30:00,2016,3,5,away,1,0,0,3
+2016-03-12,Ipswich Town,0,England,Cardiff City,1,Championship,2016-03-12,15:00:00,2016,3,5,home,0,0,1,1
+2016-03-13,Birmingham City,0,England,Wolverhampton Wanderers,0,Championship,2016-03-13,13:15:00,2016,3,6,draw,0,1,0,0
+2016-03-13,Middlesbrough,0,England,Charlton Athletic,2,Championship,2016-03-13,15:30:00,2016,3,6,home,0,0,1,2
+2016-03-15,Blackburn Rovers,0,England,Ipswich Town,2,Championship,2016-03-15,19:45:00,2016,3,1,home,0,0,1,2
+2016-03-15,Nottingham Forest,1,England,Hull City,1,Championship,2016-03-15,19:45:00,2016,3,1,draw,0,1,0,2
+2016-03-15,Reading,0,England,Brighton &amp; Hove Albion,1,Championship,2016-03-15,19:45:00,2016,3,1,home,0,0,1,1
+2016-03-16,Ross County,1,Scotland,St. Johnstone,1,Premiership,2016-03-16,19:45:00,2016,3,2,draw,0,1,0,2
+2016-03-18,Hull City,0,England,Middlesbrough,1,Championship,2016-03-18,19:45:00,2016,3,4,home,0,0,1,1
+2016-03-19,Nottingham Forest,0,England,Derby County,1,Championship,2016-03-19,12:30:00,2016,3,5,home,0,0,1,1
+2016-03-19,Inverness CT,3,Scotland,Ross County,0,Premiership,2016-03-19,15:00:00,2016,3,5,away,1,0,0,3
+2016-03-19,Aberdeen,1,Scotland,Motherwell,2,Premiership,2016-03-19,15:00:00,2016,3,5,home,0,0,1,3
+2016-03-19,St. Johnstone,3,Scotland,Hearts,0,Premiership,2016-03-19,15:00:00,2016,3,5,away,1,0,0,3
+2016-03-19,Partick Thistle,2,Scotland,Hamilton Academical,1,Premiership,2016-03-19,15:00:00,2016,3,5,away,1,0,0,3
+2016-03-19,Celtic,1,Scotland,Kilmarnock,0,Premiership,2016-03-19,12:30:00,2016,3,5,away,1,0,0,1
+2016-03-19,Wolverhampton Wanderers,1,England,Burnley,1,Championship,2016-03-19,15:00:00,2016,3,5,draw,0,1,0,2
+2016-03-19,Rotherham United,1,England,Ipswich Town,0,Championship,2016-03-19,15:00:00,2016,3,5,away,1,0,0,1
+2016-03-19,Huddersfield Town,4,England,Leeds United,1,Championship,2016-03-19,15:00:00,2016,3,5,away,1,0,0,5
+2016-03-19,Queens Park Rangers,1,England,Preston North End,1,Championship,2016-03-19,15:00:00,2016,3,5,draw,0,1,0,2
+2016-03-19,Cardiff City,1,England,Reading,1,Championship,2016-03-19,15:00:00,2016,3,5,draw,0,1,0,2
+2016-03-19,Charlton Athletic,0,England,Sheffield Wednesday,3,Championship,2016-03-19,15:00:00,2016,3,5,home,0,0,1,3
+2016-03-19,Brighton &amp; Hove Albion,2,England,Milton Keynes Dons,1,Championship,2016-03-19,15:00:00,2016,3,5,away,1,0,0,3
+2016-03-19,Bolton Wanderers,0,England,Bristol City,6,Championship,2016-03-19,15:00:00,2016,3,5,home,0,0,1,6
+2016-03-19,Fulham,1,England,Birmingham City,1,Championship,2016-03-19,15:00:00,2016,3,5,draw,0,1,0,2
+2016-03-19,Blackburn Rovers,1,England,Brentford,0,Championship,2016-03-19,15:00:00,2016,3,5,away,1,0,0,1
+2016-03-20,Dundee,2,Scotland,Dundee United,2,Premiership,2016-03-20,12:30:00,2016,3,6,draw,0,1,0,4
+2016-04-01,Middlesbrough,3,England,Queens Park Rangers,2,Championship,2016-04-01,18:45:00,2016,4,4,away,1,0,0,5
+2016-04-02,Dundee United,1,Scotland,St. Johnstone,0,Premiership,2016-04-02,14:00:00,2016,4,5,away,1,0,0,1
+2016-04-02,Kilmarnock,0,Scotland,Partick Thistle,0,Premiership,2016-04-02,14:00:00,2016,4,5,draw,0,1,0,0
+2016-04-02,Motherwell,2,Scotland,Inverness CT,1,Premiership,2016-04-02,14:00:00,2016,4,5,away,1,0,0,3
+2016-04-02,Ross County,2,Scotland,Dundee,5,Premiership,2016-04-02,14:00:00,2016,4,5,home,0,0,1,7
+2016-04-02,Hearts,1,Scotland,Celtic,3,Premiership,2016-04-02,11:30:00,2016,4,5,home,0,0,1,4
+2016-04-02,Ipswich Town,0,England,Wolverhampton Wanderers,0,Championship,2016-04-02,14:00:00,2016,4,5,draw,0,1,0,0
+2016-04-02,Reading,1,England,Bolton Wanderers,0,Championship,2016-04-02,14:00:00,2016,4,5,away,1,0,0,1
+2016-04-02,Leeds United,1,England,Rotherham United,2,Championship,2016-04-02,14:00:00,2016,4,5,home,0,0,1,3
+2016-04-02,Brentford,3,England,Nottingham Forest,0,Championship,2016-04-02,14:00:00,2016,4,5,away,1,0,0,3
+2016-04-02,Bristol City,0,England,Hull City,4,Championship,2016-04-02,14:00:00,2016,4,5,home,0,0,1,4
+2016-04-02,Sheffield Wednesday,1,England,Huddersfield Town,0,Championship,2016-04-02,14:00:00,2016,4,5,away,1,0,0,1
+2016-04-02,Milton Keynes Dons,1,England,Fulham,2,Championship,2016-04-02,14:00:00,2016,4,5,home,0,0,1,3
+2016-04-02,Preston North End,2,England,Blackburn Rovers,1,Championship,2016-04-02,11:30:00,2016,4,5,away,1,0,0,3
+2016-04-02,Burnley,2,England,Brighton &amp; Hove Albion,2,Championship,2016-04-02,11:30:00,2016,4,5,draw,0,1,0,4
+2016-04-02,Birmingham City,1,England,Charlton Athletic,2,Championship,2016-04-02,14:00:00,2016,4,5,home,0,0,1,3
+2016-04-02,Derby County,1,England,Cardiff City,2,Championship,2016-04-02,14:00:00,2016,4,5,home,0,0,1,3
+2016-04-03,Hamilton Academical,0,Scotland,Aberdeen,3,Premiership,2016-04-03,11:30:00,2016,4,6,home,0,0,1,3
+2016-04-05,Wolverhampton Wanderers,2,England,Milton Keynes Dons,1,Championship,2016-04-05,18:45:00,2016,4,1,away,1,0,0,3
+2016-04-05,Bolton Wanderers,1,England,Brentford,3,Championship,2016-04-05,18:45:00,2016,4,1,home,0,0,1,4
+2016-04-05,Nottingham Forest,1,England,Reading,2,Championship,2016-04-05,19:00:00,2016,4,1,home,0,0,1,3
+2016-04-05,Blackburn Rovers,1,England,Sheffield Wednesday,2,Championship,2016-04-05,18:45:00,2016,4,1,home,0,0,1,3
+2016-04-05,Cardiff City,0,England,Burnley,0,Championship,2016-04-05,18:45:00,2016,4,1,draw,0,1,0,0
+2016-04-05,Dundee United,0,Scotland,Partick Thistle,1,Premiership,2016-04-05,18:45:00,2016,4,1,home,0,0,1,1
+2016-04-05,Brighton &amp; Hove Albion,2,England,Birmingham City,1,Championship,2016-04-05,18:45:00,2016,4,1,away,1,0,0,3
+2016-04-05,Hull City,0,England,Derby County,4,Championship,2016-04-05,18:45:00,2016,4,1,home,0,0,1,4
+2016-04-05,Charlton Athletic,0,England,Ipswich Town,0,Championship,2016-04-05,18:45:00,2016,4,1,draw,0,1,0,0
+2016-04-05,Queens Park Rangers,1,England,Leeds United,1,Championship,2016-04-05,18:45:00,2016,4,1,draw,0,1,0,2
+2016-04-05,Huddersfield Town,0,England,Middlesbrough,3,Championship,2016-04-05,18:45:00,2016,4,1,home,0,0,1,3
+2016-04-05,Fulham,2,England,Preston North End,1,Championship,2016-04-05,18:45:00,2016,4,1,away,1,0,0,3
+2016-04-05,Celtic,0,Scotland,Dundee,0,Premiership,2016-04-05,18:45:00,2016,4,1,draw,0,1,0,0
+2016-04-05,Rotherham United,1,England,Bristol City,1,Championship,2016-04-05,18:45:00,2016,4,1,draw,0,1,0,2
+2016-04-08,Aberdeen,1,Scotland,Hearts,2,Premiership,2016-04-08,18:45:00,2016,4,4,home,0,0,1,3
+2016-04-09,Inverness CT,2,Scotland,Dundee United,0,Premiership,2016-04-09,14:00:00,2016,4,5,away,1,0,0,2
+2016-04-09,St. Johnstone,0,Scotland,Kilmarnock,3,Premiership,2016-04-09,14:00:00,2016,4,5,home,0,0,1,3
+2016-04-09,Partick Thistle,0,Scotland,Ross County,1,Premiership,2016-04-09,14:00:00,2016,4,5,home,0,0,1,1
+2016-04-09,Dundee,1,Scotland,Hamilton Academical,2,Premiership,2016-04-09,14:00:00,2016,4,5,home,0,0,1,3
+2016-04-09,Celtic,2,Scotland,Motherwell,1,Premiership,2016-04-09,11:30:00,2016,4,5,away,1,0,0,3
+2016-04-09,Brentford,3,England,Ipswich Town,1,Championship,2016-04-09,14:00:00,2016,4,5,away,1,0,0,4
+2016-04-09,Preston North End,0,England,Middlesbrough,1,Championship,2016-04-09,14:00:00,2016,4,5,home,0,0,1,1
+2016-04-09,Charlton Athletic,1,England,Queens Park Rangers,2,Championship,2016-04-09,14:00:00,2016,4,5,home,0,0,1,3
+2016-04-09,Birmingham City,2,England,Reading,0,Championship,2016-04-09,14:00:00,2016,4,5,away,1,0,0,2
+2016-04-09,Blackburn Rovers,0,England,Wolverhampton Wanderers,0,Championship,2016-04-09,14:00:00,2016,4,5,draw,0,1,0,0
+2016-04-09,Hull City,2,England,Huddersfield Town,2,Championship,2016-04-09,14:00:00,2016,4,5,draw,0,1,0,4
+2016-04-09,Cardiff City,1,England,Fulham,2,Championship,2016-04-09,14:00:00,2016,4,5,home,0,0,1,3
+2016-04-09,Bolton Wanderers,1,England,Derby County,4,Championship,2016-04-09,14:00:00,2016,4,5,home,0,0,1,5
+2016-04-09,Sheffield Wednesday,1,England,Bristol City,4,Championship,2016-04-09,14:00:00,2016,4,5,home,0,0,1,5
+2016-04-09,Leeds United,0,England,Burnley,1,Championship,2016-04-09,11:30:00,2016,4,5,home,0,0,1,1
+2016-04-09,Rotherham United,4,England,Milton Keynes Dons,0,Championship,2016-04-09,14:00:00,2016,4,5,away,1,0,0,4
+2016-04-11,Brighton &amp; Hove Albion,2,England,Nottingham Forest,1,Championship,2016-04-11,18:45:00,2016,4,0,away,1,0,0,3
+2016-04-12,Hearts,0,Scotland,Inverness CT,0,Premiership,2016-04-12,18:45:00,2016,4,1,draw,0,1,0,0
+2016-04-12,Reading,1,England,Middlesbrough,2,Championship,2016-04-12,18:45:00,2016,4,1,home,0,0,1,3
+2016-04-12,Leeds United,2,England,Birmingham City,1,Championship,2016-04-12,18:45:00,2016,4,1,away,1,0,0,3
+2016-04-15,Fulham,0,England,Brighton &amp; Hove Albion,5,Championship,2016-04-15,18:45:00,2016,4,4,home,0,0,1,5
+2016-04-15,Wolverhampton Wanderers,1,England,Hull City,2,Championship,2016-04-15,18:45:00,2016,4,4,home,0,0,1,3
+2016-04-16,Ipswich Town,1,England,Sheffield Wednesday,1,Championship,2016-04-16,14:00:00,2016,4,5,draw,0,1,0,2
+2016-04-16,Nottingham Forest,0,England,Rotherham United,0,Championship,2016-04-16,14:00:00,2016,4,5,draw,0,1,0,0
+2016-04-16,Milton Keynes Dons,1,England,Preston North End,1,Championship,2016-04-16,14:00:00,2016,4,5,draw,0,1,0,2
+2016-04-16,Reading,2,England,Leeds United,3,Championship,2016-04-16,14:00:00,2016,4,5,home,0,0,1,5
+2016-04-16,Derby County,1,England,Charlton Athletic,0,Championship,2016-04-16,14:00:00,2016,4,5,away,1,0,0,1
+2016-04-16,Queens Park Rangers,0,England,Cardiff City,0,Championship,2016-04-16,14:00:00,2016,4,5,draw,0,1,0,0
+2016-04-16,Bristol City,1,England,Brentford,1,Championship,2016-04-16,14:00:00,2016,4,5,draw,0,1,0,2
+2016-04-16,Huddersfield Town,2,England,Blackburn Rovers,0,Championship,2016-04-16,14:00:00,2016,4,5,away,1,0,0,2
+2016-04-16,Burnley,2,England,Birmingham City,1,Championship,2016-04-16,14:00:00,2016,4,5,away,1,0,0,3
+2016-04-16,Middlesbrough,2,England,Bolton Wanderers,1,Championship,2016-04-16,11:30:00,2016,4,5,away,1,0,0,3
+2016-04-19,Wolverhampton Wanderers,1,England,Leeds United,2,Championship,2016-04-19,18:45:00,2016,4,1,home,0,0,1,3
+2016-04-19,Hull City,2,England,Reading,1,Championship,2016-04-19,19:00:00,2016,4,1,away,1,0,0,3
+2016-04-19,Charlton Athletic,0,England,Bolton Wanderers,0,Championship,2016-04-19,19:00:00,2016,4,1,draw,0,1,0,0
+2016-04-19,Milton Keynes Dons,0,England,Sheffield Wednesday,0,Championship,2016-04-19,18:45:00,2016,4,1,draw,0,1,0,0
+2016-04-19,Huddersfield Town,1,England,Rotherham United,1,Championship,2016-04-19,18:45:00,2016,4,1,draw,0,1,0,2
+2016-04-19,Blackburn Rovers,1,England,Nottingham Forest,1,Championship,2016-04-19,18:45:00,2016,4,1,draw,0,1,0,2
+2016-04-19,Fulham,1,England,Ipswich Town,1,Championship,2016-04-19,18:45:00,2016,4,1,draw,0,1,0,2
+2016-04-19,Middlesbrough,1,England,Burnley,1,Championship,2016-04-19,18:45:00,2016,4,1,draw,0,1,0,2
+2016-04-19,Cardiff City,1,England,Brentford,2,Championship,2016-04-19,18:45:00,2016,4,1,home,0,0,1,3
+2016-04-19,Queens Park Rangers,0,England,Brighton &amp; Hove Albion,4,Championship,2016-04-19,18:45:00,2016,4,1,home,0,0,1,4
+2016-04-19,Preston North End,2,England,Birmingham City,2,Championship,2016-04-19,18:45:00,2016,4,1,draw,0,1,0,4
+2016-04-19,Derby County,3,England,Bristol City,2,Championship,2016-04-19,18:45:00,2016,4,1,away,1,0,0,5
+2016-04-22,Aberdeen,0,Scotland,St. Johnstone,3,Premiership,2016-04-22,18:45:00,2016,4,4,home,0,0,1,3
+2016-04-22,Burnley,1,England,Preston North End,0,Championship,2016-04-22,18:45:00,2016,4,4,away,1,0,0,1
+2016-04-23,Brentford,4,England,Milton Keynes Dons,1,Championship,2016-04-23,14:00:00,2016,4,5,away,1,0,0,5
+2016-04-23,Ipswich Town,0,England,Middlesbrough,0,Championship,2016-04-23,14:00:00,2016,4,5,draw,0,1,0,0
+2016-04-23,Leeds United,2,England,Hull City,2,Championship,2016-04-23,14:00:00,2016,4,5,draw,0,1,0,4
+2016-04-23,Birmingham City,1,England,Huddersfield Town,1,Championship,2016-04-23,14:00:00,2016,4,5,draw,0,1,0,2
+2016-04-23,Nottingham Forest,3,England,Fulham,1,Championship,2016-04-23,14:00:00,2016,4,5,away,1,0,0,4
+2016-04-23,Brighton &amp; Hove Albion,3,England,Charlton Athletic,1,Championship,2016-04-23,14:00:00,2016,4,5,away,1,0,0,4
+2016-04-23,Sheffield Wednesday,1,England,Derby County,1,Championship,2016-04-23,11:30:00,2016,4,5,draw,0,1,0,2
+2016-04-23,Bristol City,2,England,Blackburn Rovers,2,Championship,2016-04-23,14:00:00,2016,4,5,draw,0,1,0,4
+2016-04-23,Dundee,2,Scotland,Partick Thistle,1,Premiership,2016-04-23,14:00:00,2016,4,5,away,1,0,0,3
+2016-04-23,Hearts,0,Scotland,Motherwell,1,Premiership,2016-04-23,14:00:00,2016,4,5,home,0,0,1,1
+2016-04-23,Reading,1,England,Queens Park Rangers,1,Championship,2016-04-23,14:00:00,2016,4,5,draw,0,1,0,2
+2016-04-23,Bolton Wanderers,1,England,Cardiff City,2,Championship,2016-04-23,14:00:00,2016,4,5,home,0,0,1,3
+2016-04-23,Rotherham United,0,England,Wolverhampton Wanderers,0,Championship,2016-04-23,14:00:00,2016,4,5,draw,0,1,0,0
+2016-04-24,Ross County,1,Scotland,Celtic,1,Premiership,2016-04-24,14:00:00,2016,4,6,draw,0,1,0,2
+2016-04-24,Kilmarnock,1,Scotland,Inverness CT,3,Premiership,2016-04-24,11:30:00,2016,4,6,home,0,0,1,4
+2016-04-24,Hamilton Academical,3,Scotland,Dundee United,1,Premiership,2016-04-24,14:00:00,2016,4,6,away,1,0,0,4
+2016-04-26,Brentford,0,England,Hull City,2,Championship,2016-04-26,18:45:00,2016,4,1,home,0,0,1,2
+2016-04-29,Middlesbrough,2,England,Birmingham City,2,Championship,2016-04-29,18:45:00,2016,4,4,draw,0,1,0,4
+2016-04-30,Milton Keynes Dons,2,England,Ipswich Town,3,Championship,2016-04-30,14:00:00,2016,4,5,home,0,0,1,5
+2016-04-30,Huddersfield Town,0,England,Bristol City,4,Championship,2016-04-30,14:00:00,2016,4,5,home,0,0,1,4
+2016-04-30,Fulham,0,England,Brentford,3,Championship,2016-04-30,14:00:00,2016,4,5,home,0,0,1,3
+2016-04-30,Kilmarnock,4,Scotland,Hamilton Academical,0,Premiership,2016-04-30,14:00:00,2016,4,5,away,1,0,0,4
+2016-04-30,Charlton Athletic,2,England,Leeds United,1,Championship,2016-04-30,14:00:00,2016,4,5,away,1,0,0,3
+2016-04-30,Celtic,3,Scotland,Hearts,1,Premiership,2016-04-30,11:30:00,2016,4,5,away,1,0,0,4
+2016-04-30,Hull City,0,England,Bolton Wanderers,1,Championship,2016-04-30,11:30:00,2016,4,5,home,0,0,1,1
+2016-04-30,Wolverhampton Wanderers,1,England,Nottingham Forest,1,Championship,2016-04-30,14:00:00,2016,4,5,draw,0,1,0,2
+2016-04-30,Preston North End,2,England,Reading,1,Championship,2016-04-30,14:00:00,2016,4,5,away,1,0,0,3
+2016-04-30,Blackburn Rovers,1,England,Rotherham United,0,Championship,2016-04-30,14:00:00,2016,4,5,away,1,0,0,1
+2016-04-30,Motherwell,1,Scotland,Aberdeen,4,Premiership,2016-04-30,14:00:00,2016,4,5,home,0,0,1,5
+2016-04-30,Inverness CT,4,Scotland,Partick Thistle,1,Premiership,2016-04-30,14:00:00,2016,4,5,away,1,0,0,5
+2016-04-30,St. Johnstone,1,Scotland,Ross County,0,Premiership,2016-04-30,14:00:00,2016,4,5,away,1,0,0,1
+2016-04-30,Cardiff City,0,England,Sheffield Wednesday,3,Championship,2016-04-30,14:00:00,2016,4,5,home,0,0,1,3
+2016-05-02,Derby County,1,England,Brighton &amp; Hove Albion,1,Championship,2016-05-02,13:30:00,2016,5,0,draw,0,1,0,2
+2016-05-02,Dundee United,1,Scotland,Dundee,2,Premiership,2016-05-02,18:45:00,2016,5,0,home,0,0,1,3
+2016-05-02,Queens Park Rangers,0,England,Burnley,1,Championship,2016-05-02,15:45:00,2016,5,0,home,0,0,1,1
+2016-05-06,Dundee United,3,Scotland,Inverness CT,2,Premiership,2016-05-06,18:45:00,2016,5,4,away,1,0,0,5
+2016-05-07,Partick Thistle,2,Scotland,Kilmarnock,0,Premiership,2016-05-07,14:00:00,2016,5,5,away,1,0,0,2
+2016-05-07,Hamilton Academical,1,Scotland,Dundee,0,Premiership,2016-05-07,14:00:00,2016,5,5,away,1,0,0,1
+2016-05-07,St. Johnstone,2,Scotland,Motherwell,1,Premiership,2016-05-07,14:00:00,2016,5,5,away,1,0,0,3
+2016-05-07,Nottingham Forest,2,England,Milton Keynes Dons,1,Championship,2016-05-07,11:30:00,2016,5,5,away,1,0,0,3
+2016-05-07,Reading,1,England,Blackburn Rovers,3,Championship,2016-05-07,11:30:00,2016,5,5,home,0,0,1,4
+2016-05-07,Sheffield Wednesday,1,England,Wolverhampton Wanderers,2,Championship,2016-05-07,11:30:00,2016,5,5,home,0,0,1,3
+2016-05-07,Bristol City,0,England,Queens Park Rangers,1,Championship,2016-05-07,11:30:00,2016,5,5,home,0,0,1,1
+2016-05-07,Leeds United,1,England,Preston North End,1,Championship,2016-05-07,11:30:00,2016,5,5,draw,0,1,0,2
+2016-05-07,Ross County,1,Scotland,Hearts,1,Premiership,2016-05-07,14:00:00,2016,5,5,draw,0,1,0,2
+2016-05-07,Brighton &amp; Hove Albion,1,England,Middlesbrough,1,Championship,2016-05-07,11:30:00,2016,5,5,draw,0,1,0,2
+2016-05-07,Brentford,5,England,Huddersfield Town,1,Championship,2016-05-07,11:30:00,2016,5,5,away,1,0,0,6
+2016-05-07,Bolton Wanderers,0,England,Fulham,1,Championship,2016-05-07,11:30:00,2016,5,5,home,0,0,1,1
+2016-05-07,Ipswich Town,1,England,Derby County,0,Championship,2016-05-07,11:30:00,2016,5,5,away,1,0,0,1
+2016-05-07,Burnley,3,England,Charlton Athletic,0,Championship,2016-05-07,11:30:00,2016,5,5,away,1,0,0,3
+2016-05-07,Birmingham City,1,England,Cardiff City,1,Championship,2016-05-07,11:30:00,2016,5,5,draw,0,1,0,2
+2016-05-07,Rotherham United,1,England,Hull City,5,Championship,2016-05-07,11:30:00,2016,5,5,home,0,0,1,6
+2016-05-08,Aberdeen,2,Scotland,Celtic,3,Premiership,2016-05-08,11:30:00,2016,5,6,home,0,0,1,5
+2016-05-10,Partick Thistle,3,Scotland,Dundee United,3,Premiership,2016-05-10,18:45:00,2016,5,1,draw,0,1,0,6
